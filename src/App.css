@@ -1,0 +1,120 @@
+#root {
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+  padding: 0px 10%;
+  font-family: "Montserrat", serif;
+}
+
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.categoriasContainer{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  h1{
+    margin: 100px;
+  }
+}
+
+.pregunta{
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  width: 100%;
+  background-color: #242424;
+  width: 100%;
+  margin: auto;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+  border-bottom: 2px solid #646cff;
+}
+
+/* Animación para estirar el recuadro */
+.recuadroPregunta {
+  transition: height 0.5s ease-in-out, padding 0.5s ease-in-out;
+  overflow: hidden; /* Evita que el contenido se desborde durante la animación */
+}
+
+/* Animación para mostrar las respuestas */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Animación para estirar el recuadro */
+.recuadroPregunta {
+  max-height: 300px; /* Altura inicial */
+  overflow: hidden; /* Evita que el contenido se desborde */
+  transition: max-height 0.5s ease-in-out; /* Animación suave */
+}
+
+.recuadroPregunta.mostrarRespuestas {
+  max-height: 1000px; /* Altura final (ajusta según sea necesario) */
+}
+
+.respuesta {
+  animation: fadeIn 0.5s ease-in-out;
+  animation-fill-mode: both; /* Mantiene el estado final de la animación */
+}
+
+/* Retraso para cada respuesta */
+.respuesta:nth-child(1) {
+  animation-delay: 0.1s;
+}
+.respuesta:nth-child(2) {
+  animation-delay: 0.2s;
+}
+.respuesta:nth-child(3) {
+  animation-delay: 0.3s;
+}
+.respuesta:nth-child(4) {
+  animation-delay: 0.4s;
+}

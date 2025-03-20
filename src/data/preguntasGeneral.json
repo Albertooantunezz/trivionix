@@ -1,0 +1,3844 @@
+[
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Leonardo da Vinci", "Miguel Ángel", "Rafael", "Donatello"],
+      "en": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"]
+    },
+    "pregunta": {
+      "es": "¿Quién pintó 'La Última Cena'?",
+      "en": "Who painted 'The Last Supper'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Leonardo da Vinci",
+      "en": "Leonardo da Vinci"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Egipto", "Grecia", "Roma", "Mesopotamia"],
+      "en": ["Egypt", "Greece", "Rome", "Mesopotamia"]
+    },
+    "pregunta": {
+      "es": "¿En qué civilización antigua se originó la escritura cuneiforme?",
+      "en": "In which ancient civilization did cuneiform writing originate?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mesopotamia",
+      "en": "Mesopotamia"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Julio César", "Napoleón Bonaparte", "Alejandro Magno", "Genghis Khan"],
+      "en": ["Julius Caesar", "Napoleon Bonaparte", "Alexander the Great", "Genghis Khan"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el primer emperador romano?",
+      "en": "Who was the first Roman emperor?"
+    },
+    "respuestaCorrecta": {
+      "es": "Augusto",
+      "en": "Augustus"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Revolución Francesa", "La Revolución Industrial", "La Revolución Rusa", "La Revolución Americana"],
+      "en": ["The French Revolution", "The Industrial Revolution", "The Russian Revolution", "The American Revolution"]
+    },
+    "pregunta": {
+      "es": "¿Qué evento histórico comenzó en 1789 y marcó el fin del absolutismo en Francia?",
+      "en": "Which historical event began in 1789 and marked the end of absolutism in France?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Revolución Francesa",
+      "en": "The French Revolution"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Peste Negra", "La Gripe Española", "El Cólera", "La Viruela"],
+      "en": ["The Black Death", "The Spanish Flu", "Cholera", "Smallpox"]
+    },
+    "pregunta": {
+      "es": "¿Qué pandemia devastó Europa en el siglo XIV?",
+      "en": "Which pandemic devastated Europe in the 14th century?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Peste Negra",
+      "en": "The Black Death"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Guerra de los Cien Años", "La Guerra de los Treinta Años", "La Guerra de Sucesión Española", "La Guerra de los Siete Años"],
+      "en": ["The Hundred Years' War", "The Thirty Years' War", "The War of the Spanish Succession", "The Seven Years' War"]
+    },
+    "pregunta": {
+      "es": "¿Qué conflicto duró de 1337 a 1453 entre Inglaterra y Francia?",
+      "en": "Which conflict lasted from 1337 to 1453 between England and France?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Guerra de los Cien Años",
+      "en": "The Hundred Years' War"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Batalla de Waterloo", "La Batalla de Stalingrado", "La Batalla de las Termópilas", "La Batalla de Gettysburg"],
+      "en": ["The Battle of Waterloo", "The Battle of Stalingrad", "The Battle of Thermopylae", "The Battle of Gettysburg"]
+    },
+    "pregunta": {
+      "es": "¿En qué batalla fue derrotado Napoleón Bonaparte definitivamente?",
+      "en": "In which battle was Napoleon Bonaparte definitively defeated?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Batalla de Waterloo",
+      "en": "The Battle of Waterloo"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Revolución Mexicana", "La Revolución Cubana", "La Revolución Rusa", "La Revolución China"],
+      "en": ["The Mexican Revolution", "The Cuban Revolution", "The Russian Revolution", "The Chinese Revolution"]
+    },
+    "pregunta": {
+      "es": "¿Qué revolución comenzó en 1910 y llevó a la caída de Porfirio Díaz en México?",
+      "en": "Which revolution began in 1910 and led to the fall of Porfirio Díaz in Mexico?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Revolución Mexicana",
+      "en": "The Mexican Revolution"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Guerra Fría", "La Primera Guerra Mundial", "La Segunda Guerra Mundial", "La Guerra de Vietnam"],
+      "en": ["The Cold War", "World War I", "World War II", "The Vietnam War"]
+    },
+    "pregunta": {
+      "es": "¿Qué conflicto global enfrentó a Estados Unidos y la Unión Soviética después de la Segunda Guerra Mundial?",
+      "en": "Which global conflict pitted the United States against the Soviet Union after World War II?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Guerra Fría",
+      "en": "The Cold War"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Revolución Industrial", "La Revolución Francesa", "La Revolución Rusa", "La Revolución Americana"],
+      "en": ["The Industrial Revolution", "The French Revolution", "The Russian Revolution", "The American Revolution"]
+    },
+    "pregunta": {
+      "es": "¿Qué evento histórico marcó el inicio de la producción en masa y el uso de máquinas en el siglo XVIII?",
+      "en": "Which historical event marked the beginning of mass production and the use of machines in the 18th century?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Revolución Industrial",
+      "en": "The Industrial Revolution"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Guerra de Independencia de Estados Unidos", "La Guerra de los Treinta Años", "La Guerra de los Cien Años", "La Guerra de Sucesión Española"],
+      "en": ["The American Revolutionary War", "The Thirty Years' War", "The Hundred Years' War", "The War of the Spanish Succession"]
+    },
+    "pregunta": {
+      "es": "¿Qué conflicto llevó a la independencia de las Trece Colonias de Gran Bretaña?",
+      "en": "Which conflict led to the independence of the Thirteen Colonies from Great Britain?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Guerra de Independencia de Estados Unidos",
+      "en": "The American Revolutionary War"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Revolución Rusa", "La Revolución Francesa", "La Revolución Industrial", "La Revolución Mexicana"],
+      "en": ["The Russian Revolution", "The French Revolution", "The Industrial Revolution", "The Mexican Revolution"]
+    },
+    "pregunta": {
+      "es": "¿Qué revolución llevó al establecimiento de la Unión Soviética en 1917?",
+      "en": "Which revolution led to the establishment of the Soviet Union in 1917?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Revolución Rusa",
+      "en": "The Russian Revolution"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Guerra de Vietnam", "La Guerra de Corea", "La Guerra Fría", "La Guerra del Golfo"],
+      "en": ["The Vietnam War", "The Korean War", "The Cold War", "The Gulf War"]
+    },
+    "pregunta": {
+      "es": "¿Qué conflicto enfrentó a Vietnam del Norte y Vietnam del Sur entre 1955 y 1975?",
+      "en": "Which conflict pitted North Vietnam against South Vietnam between 1955 and 1975?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Guerra de Vietnam",
+      "en": "The Vietnam War"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Guerra de los Treinta Años", "La Guerra de los Cien Años", "La Guerra de Sucesión Española", "La Guerra de los Siete Años"],
+      "en": ["The Thirty Years' War", "The Hundred Years' War", "The War of the Spanish Succession", "The Seven Years' War"]
+    },
+    "pregunta": {
+      "es": "¿Qué conflicto religioso y político devastó Europa entre 1618 y 1648?",
+      "en": "Which religious and political conflict devastated Europe between 1618 and 1648?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Guerra de los Treinta Años",
+      "en": "The Thirty Years' War"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Guerra de los Siete Años", "La Guerra de los Treinta Años", "La Guerra de los Cien Años", "La Guerra de Sucesión Española"],
+      "en": ["The Seven Years' War", "The Thirty Years' War", "The Hundred Years' War", "The War of the Spanish Succession"]
+    },
+    "pregunta": {
+      "es": "¿Qué conflicto global se desarrolló entre 1756 y 1763 y involucró a las principales potencias europeas?",
+      "en": "Which global conflict took place between 1756 and 1763 and involved the major European powers?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Guerra de los Siete Años",
+      "en": "The Seven Years' War"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Guerra de Corea", "La Guerra de Vietnam", "La Guerra Fría", "La Guerra del Golfo"],
+      "en": ["The Korean War", "The Vietnam War", "The Cold War", "The Gulf War"]
+    },
+    "pregunta": {
+      "es": "¿Qué conflicto dividió a Corea en Norte y Sur entre 1950 y 1953?",
+      "en": "Which conflict divided Korea into North and South between 1950 and 1953?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Guerra de Corea",
+      "en": "The Korean War"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Guerra del Golfo", "La Guerra de Vietnam", "La Guerra de Corea", "La Guerra Fría"],
+      "en": ["The Gulf War", "The Vietnam War", "The Korean War", "The Cold War"]
+    },
+    "pregunta": {
+      "es": "¿Qué conflicto involucró a una coalición liderada por Estados Unidos contra Irak en 1990-1991?",
+      "en": "Which conflict involved a coalition led by the United States against Iraq in 1990-1991?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Guerra del Golfo",
+      "en": "The Gulf War"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Guerra de los Cien Años", "La Guerra de los Treinta Años", "La Guerra de Sucesión Española", "La Guerra de los Siete Años"],
+      "en": ["The Hundred Years' War", "The Thirty Years' War", "The War of the Spanish Succession", "The Seven Years' War"]
+    },
+    "pregunta": {
+      "es": "¿Qué conflicto enfrentó a Inglaterra y Francia durante gran parte de los siglos XIV y XV?",
+      "en": "Which conflict pitted England against France for much of the 14th and 15th centuries?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Guerra de los Cien Años",
+      "en": "The Hundred Years' War"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Guerra de Sucesión Española", "La Guerra de los Cien Años", "La Guerra de los Treinta Años", "La Guerra de los Siete Años"],
+      "en": ["The War of the Spanish Succession", "The Hundred Years' War", "The Thirty Years' War", "The Seven Years' War"]
+    },
+    "pregunta": {
+      "es": "¿Qué conflicto europeo se desató tras la muerte de Carlos II de España en 1700?",
+      "en": "Which European conflict broke out after the death of Charles II of Spain in 1700?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Guerra de Sucesión Española",
+      "en": "The War of the Spanish Succession"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "en": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"]
+    },
+    "pregunta": {
+      "es": "¿Quién escribió 'Hamlet'?",
+      "en": "Who wrote 'Hamlet'?"
+    },
+    "respuestaCorrecta": {
+      "es": "William Shakespeare",
+      "en": "William Shakespeare"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["H2O", "CO2", "NaCl", "O2"],
+      "en": ["H2O", "CO2", "NaCl", "O2"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la fórmula química del dióxido de carbono?",
+      "en": "What is the chemical formula for carbon dioxide?"
+    },
+    "respuestaCorrecta": {
+      "es": "CO2",
+      "en": "CO2"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["París", "Berlín", "Madrid", "Roma"],
+      "en": ["Paris", "Berlin", "Madrid", "Rome"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la capital de Italia?",
+      "en": "What is the capital of Italy?"
+    },
+    "respuestaCorrecta": {
+      "es": "Roma",
+      "en": "Rome"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+      "en": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"]
+    },
+    "pregunta": {
+      "es": "¿Quién pintó 'La noche estrellada'?",
+      "en": "Who painted 'Starry Night'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Vincent van Gogh",
+      "en": "Vincent van Gogh"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Júpiter", "Saturno", "Marte", "Venus"],
+      "en": ["Jupiter", "Saturn", "Mars", "Venus"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el planeta más grande del sistema solar?",
+      "en": "Which is the largest planet in the solar system?"
+    },
+    "respuestaCorrecta": {
+      "es": "Júpiter",
+      "en": "Jupiter"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Theodore Roosevelt"],
+      "en": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Theodore Roosevelt"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el primer presidente de los Estados Unidos?",
+      "en": "Who was the first president of the United States?"
+    },
+    "respuestaCorrecta": {
+      "es": "George Washington",
+      "en": "George Washington"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Ojo", "Corazón", "Hígado", "Pulmón"],
+      "en": ["Eye", "Heart", "Liver", "Lung"]
+    },
+    "pregunta": {
+      "es": "¿Qué órgano del cuerpo humano es responsable de la visión?",
+      "en": "Which organ in the human body is responsible for vision?"
+    },
+    "respuestaCorrecta": {
+      "es": "Ojo",
+      "en": "Eye"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+      "en": ["Amazon", "Nile", "Yangtze", "Mississippi"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el río más largo de África?",
+      "en": "Which is the longest river in Africa?"
+    },
+    "respuestaCorrecta": {
+      "es": "Nilo",
+      "en": "Nile"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Oro", "Plata", "Bronce", "Hierro"],
+      "en": ["Gold", "Silver", "Bronze", "Iron"]
+    },
+    "pregunta": {
+      "es": "¿Qué metal es el mejor conductor de electricidad?",
+      "en": "Which metal is the best conductor of electricity?"
+    },
+    "respuestaCorrecta": {
+      "es": "Oro",
+      "en": "Gold"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Cervantes", "García Márquez", "Borges", "Neruda"],
+      "en": ["Cervantes", "García Márquez", "Borges", "Neruda"]
+    },
+    "pregunta": {
+      "es": "¿Quién escribió 'Cien años de soledad'?",
+      "en": "Who wrote 'One Hundred Years of Solitude'?"
+    },
+    "respuestaCorrecta": {
+      "es": "García Márquez",
+      "en": "García Márquez"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Newton", "Einstein", "Galileo", "Hawking"],
+      "en": ["Newton", "Einstein", "Galileo", "Hawking"]
+    },
+    "pregunta": {
+      "es": "¿Quién formuló las leyes del movimiento?",
+      "en": "Who formulated the laws of motion?"
+    },
+    "respuestaCorrecta": {
+      "es": "Newton",
+      "en": "Newton"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Everest", "K2", "Kangchenjunga", "Lhotse"],
+      "en": ["Everest", "K2", "Kangchenjunga", "Lhotse"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la montaña más alta del mundo?",
+      "en": "Which is the highest mountain in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Everest",
+      "en": "Everest"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Venus", "Marte", "Júpiter", "Saturno"],
+      "en": ["Venus", "Mars", "Jupiter", "Saturn"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el planeta más cercano al Sol?",
+      "en": "Which is the closest planet to the Sun?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mercurio",
+      "en": "Mercury"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Oro", "Plata", "Bronce", "Hierro"],
+      "en": ["Gold", "Silver", "Bronze", "Iron"]
+    },
+    "pregunta": {
+      "es": "¿Qué metal se utiliza comúnmente en joyería por su resistencia a la corrosión?",
+      "en": "Which metal is commonly used in jewelry for its resistance to corrosion?"
+    },
+    "respuestaCorrecta": {
+      "es": "Oro",
+      "en": "Gold"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Ojo", "Oído", "Nariz", "Lengua"],
+      "en": ["Eye", "Ear", "Nose", "Tongue"]
+    },
+    "pregunta": {
+      "es": "¿Qué órgano del cuerpo humano es responsable del sentido del olfato?",
+      "en": "Which organ in the human body is responsible for the sense of smell?"
+    },
+    "respuestaCorrecta": {
+      "es": "Nariz",
+      "en": "Nose"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Oro", "Plata", "Bronce", "Hierro"],
+      "en": ["Gold", "Silver", "Bronze", "Iron"]
+    },
+    "pregunta": {
+      "es": "¿Qué metal es el más utilizado en la fabricación de monedas?",
+      "en": "Which metal is most commonly used in coin manufacturing?"
+    },
+    "respuestaCorrecta": {
+      "es": "Plata",
+      "en": "Silver"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Ojo", "Oído", "Nariz", "Lengua"],
+      "en": ["Eye", "Ear", "Nose", "Tongue"]
+    },
+    "pregunta": {
+      "es": "¿Qué órgano del cuerpo humano es responsable del sentido del gusto?",
+      "en": "Which organ in the human body is responsible for the sense of taste?"
+    },
+    "respuestaCorrecta": {
+      "es": "Lengua",
+      "en": "Tongue"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Oro", "Plata", "Bronce", "Hierro"],
+      "en": ["Gold", "Silver", "Bronze", "Iron"]
+    },
+    "pregunta": {
+      "es": "¿Qué metal es el mejor conductor de electricidad?",
+      "en": "Which metal is the best conductor of electricity?"
+    },
+    "respuestaCorrecta": {
+      "es": "Oro",
+      "en": "Gold"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Ojo", "Oído", "Nariz", "Lengua"],
+      "en": ["Eye", "Ear", "Nose", "Tongue"]
+    },
+    "pregunta": {
+      "es": "¿Qué órgano del cuerpo humano es responsable del sentido de la vista?",
+      "en": "Which organ in the human body is responsible for the sense of sight?"
+    },
+    "respuestaCorrecta": {
+      "es": "Ojo",
+      "en": "Eye"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Sol", "La Luna", "Marte", "Venus"],
+      "en": ["The Sun", "The Moon", "Mars", "Venus"]
+    },
+    "pregunta": {
+      "es": "¿Qué objeto celeste es la principal fuente de energía de la Tierra?",
+      "en": "Which celestial object is the primary source of energy for Earth?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Sol",
+      "en": "The Sun"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Amazonas", "El Nilo", "El Yangtsé", "El Misisipi"],
+      "en": ["The Amazon", "The Nile", "The Yangtze", "The Mississippi"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el río más caudaloso del mundo?",
+      "en": "Which is the most voluminous river in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Amazonas",
+      "en": "The Amazon"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Ártico", "El Antártico", "El Índico", "El Pacífico"],
+      "en": ["The Arctic", "The Antarctic", "The Indian", "The Pacific"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el océano más pequeño del mundo?",
+      "en": "Which is the smallest ocean in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Ártico",
+      "en": "The Arctic"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Coliseo", "La Torre Eiffel", "La Gran Muralla", "El Taj Mahal"],
+      "en": ["The Colosseum", "The Eiffel Tower", "The Great Wall", "The Taj Mahal"]
+    },
+    "pregunta": {
+      "es": "¿Cuál de estos monumentos se encuentra en India?",
+      "en": "Which of these monuments is located in India?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Taj Mahal",
+      "en": "The Taj Mahal"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el deporte más popular del mundo?",
+      "en": "Which is the most popular sport in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "El fútbol",
+      "en": "Soccer"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El oxígeno", "El nitrógeno", "El dióxido de carbono", "El hidrógeno"],
+      "en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+      "en": "Which is the most abundant gas in Earth's atmosphere?"
+    },
+    "respuestaCorrecta": {
+      "es": "El nitrógeno",
+      "en": "Nitrogen"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El ADN", "El ARN", "Las proteínas", "Los lípidos"],
+      "en": ["DNA", "RNA", "Proteins", "Lipids"]
+    },
+    "pregunta": {
+      "es": "¿Qué molécula contiene la información genética de los seres vivos?",
+      "en": "Which molecule contains the genetic information of living beings?"
+    },
+    "respuestaCorrecta": {
+      "es": "El ADN",
+      "en": "DNA"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El carbono", "El oxígeno", "El hidrógeno", "El nitrógeno"],
+      "en": ["Carbon", "Oxygen", "Hydrogen", "Nitrogen"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el elemento químico base de la vida orgánica?",
+      "en": "Which chemical element is the basis of organic life?"
+    },
+    "respuestaCorrecta": {
+      "es": "El carbono",
+      "en": "Carbon"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El corazón", "El cerebro", "El hígado", "Los pulmones"],
+      "en": ["The heart", "The brain", "The liver", "The lungs"]
+    },
+    "pregunta": {
+      "es": "¿Qué órgano es responsable de bombear sangre en el cuerpo humano?",
+      "en": "Which organ is responsible for pumping blood in the human body?"
+    },
+    "respuestaCorrecta": {
+      "es": "El corazón",
+      "en": "The heart"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Copa del Mundo?",
+      "en": "In which sport is the World Cup played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El fútbol",
+      "en": "Soccer"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Sol", "La Luna", "Marte", "Venus"],
+      "en": ["The Sun", "The Moon", "Mars", "Venus"]
+    },
+    "pregunta": {
+      "es": "¿Qué objeto celeste es el satélite natural de la Tierra?",
+      "en": "Which celestial object is Earth's natural satellite?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Luna",
+      "en": "The Moon"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega el Super Bowl?",
+      "en": "In which sport is the Super Bowl played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El fútbol americano",
+      "en": "American Football"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega el Abierto de Australia?",
+      "en": "In which sport is the Australian Open played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El tenis",
+      "en": "Tennis"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Serie Mundial?",
+      "en": "In which sport is the World Series played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El béisbol",
+      "en": "Baseball"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la NBA?",
+      "en": "In which sport is the NBA played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El baloncesto",
+      "en": "Basketball"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega el Abierto de Francia?",
+      "en": "In which sport is the French Open played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El tenis",
+      "en": "Tennis"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega el Abierto de Estados Unidos?",
+      "en": "In which sport is the US Open played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El tenis",
+      "en": "Tennis"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega el Abierto de Wimbledon?",
+      "en": "In which sport is Wimbledon played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El tenis",
+      "en": "Tennis"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Copa América?",
+      "en": "In which sport is the Copa América played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El fútbol",
+      "en": "Soccer"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Sol", "La Luna", "Marte", "Venus"],
+      "en": ["The Sun", "The Moon", "Mars", "Venus"]
+    },
+    "pregunta": {
+      "es": "¿Qué objeto celeste es responsable de las mareas en la Tierra?",
+      "en": "Which celestial object is responsible for tides on Earth?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Luna",
+      "en": "The Moon"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Amazonas", "El Nilo", "El Yangtsé", "El Misisipi"],
+      "en": ["The Amazon", "The Nile", "The Yangtze", "The Mississippi"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el río más largo de América del Sur?",
+      "en": "Which is the longest river in South America?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Amazonas",
+      "en": "The Amazon"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Ártico", "El Antártico", "El Índico", "El Pacífico"],
+      "en": ["The Arctic", "The Antarctic", "The Indian", "The Pacific"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el océano más grande del mundo?",
+      "en": "Which is the largest ocean in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Pacífico",
+      "en": "The Pacific"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Coliseo", "La Torre Eiffel", "La Gran Muralla", "El Taj Mahal"],
+      "en": ["The Colosseum", "The Eiffel Tower", "The Great Wall", "The Taj Mahal"]
+    },
+    "pregunta": {
+      "es": "¿Cuál de estos monumentos se encuentra en China?",
+      "en": "Which of these monuments is located in China?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Gran Muralla",
+      "en": "The Great Wall"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Copa Libertadores?",
+      "en": "In which sport is the Copa Libertadores played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El fútbol",
+      "en": "Soccer"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El oxígeno", "El nitrógeno", "El dióxido de carbono", "El hidrógeno"],
+      "en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el gas esencial para la respiración humana?",
+      "en": "Which gas is essential for human respiration?"
+    },
+    "respuestaCorrecta": {
+      "es": "El oxígeno",
+      "en": "Oxygen"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El ADN", "El ARN", "Las proteínas", "Los lípidos"],
+      "en": ["DNA", "RNA", "Proteins", "Lipids"]
+    },
+    "pregunta": {
+      "es": "¿Qué molécula es responsable de la síntesis de proteínas?",
+      "en": "Which molecule is responsible for protein synthesis?"
+    },
+    "respuestaCorrecta": {
+      "es": "El ARN",
+      "en": "RNA"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El carbono", "El oxígeno", "El hidrógeno", "El nitrógeno"],
+      "en": ["Carbon", "Oxygen", "Hydrogen", "Nitrogen"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el elemento químico más abundante en el cuerpo humano?",
+      "en": "Which chemical element is the most abundant in the human body?"
+    },
+    "respuestaCorrecta": {
+      "es": "El oxígeno",
+      "en": "Oxygen"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El corazón", "El cerebro", "El hígado", "Los pulmones"],
+      "en": ["The heart", "The brain", "The liver", "The lungs"]
+    },
+    "pregunta": {
+      "es": "¿Qué órgano es responsable de filtrar la sangre en el cuerpo humano?",
+      "en": "Which organ is responsible for filtering blood in the human body?"
+    },
+    "respuestaCorrecta": {
+      "es": "El hígado",
+      "en": "The liver"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Champions League?",
+      "en": "In which sport is the Champions League played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El fútbol",
+      "en": "Soccer"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Sol", "La Luna", "Marte", "Venus"],
+      "en": ["The Sun", "The Moon", "Mars", "Venus"]
+    },
+    "pregunta": {
+      "es": "¿Qué objeto celeste es el más cercano a la Tierra?",
+      "en": "Which celestial object is closest to Earth?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Luna",
+      "en": "The Moon"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Copa Davis?",
+      "en": "In which sport is the Davis Cup played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El tenis",
+      "en": "Tennis"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Serie Mundial de Poker?",
+      "en": "In which sport is the World Series of Poker played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El póker",
+      "en": "Poker"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega el Masters de Augusta?",
+      "en": "In which sport is the Masters Tournament played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El golf",
+      "en": "Golf"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega el Tour de Francia?",
+      "en": "In which sport is the Tour de France played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El ciclismo",
+      "en": "Cycling"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega el Abierto de Wimbledon?",
+      "en": "In which sport is Wimbledon played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El tenis",
+      "en": "Tennis"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Copa América?",
+      "en": "In which sport is the Copa América played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El fútbol",
+      "en": "Soccer"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Copa del Mundo de Rugby?",
+      "en": "In which sport is the Rugby World Cup played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El rugby",
+      "en": "Rugby"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El fútbol", "El baloncesto", "El tenis", "El béisbol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Baseball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Copa del Mundo de Cricket?",
+      "en": "In which sport is the Cricket World Cup played?"
+    },
+    "respuestaCorrecta": {
+      "es": "El cricket",
+      "en": "Cricket"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["9", "10", "11", "12"],
+      "en": ["9", "10", "11", "12"]
+    },
+    "pregunta": {
+      "es": "¿Cuántos jugadores tiene un equipo de fútbol en el campo?",
+      "en": "How many players are on a soccer team on the field?"
+    },
+    "respuestaCorrecta": {
+      "es": "11",
+      "en": "11"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Mercurio", "Venus", "Tierra", "Marte"],
+      "en": ["Mercury", "Venus", "Earth", "Mars"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el planeta más cercano al Sol?",
+      "en": "Which planet is closest to the Sun?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mercurio",
+      "en": "Mercury"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "en": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"]
+    },
+    "pregunta": {
+      "es": "¿Quién formuló la teoría de la relatividad?",
+      "en": "Who formulated the theory of relativity?"
+    },
+    "respuestaCorrecta": {
+      "es": "Albert Einstein",
+      "en": "Albert Einstein"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+      "en": ["Amazon", "Nile", "Yangtze", "Mississippi"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el río más largo del mundo?",
+      "en": "What is the longest river in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Amazonas",
+      "en": "Amazon"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Shakespeare", "Cervantes", "Hemingway", "Dante"],
+      "en": ["Shakespeare", "Cervantes", "Hemingway", "Dante"]
+    },
+    "pregunta": {
+      "es": "¿Quién escribió 'Don Quijote de la Mancha'?",
+      "en": "Who wrote 'Don Quixote'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Cervantes",
+      "en": "Cervantes"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["España", "Francia", "Italia", "Portugal"],
+      "en": ["Spain", "France", "Italy", "Portugal"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se celebra la fiesta de la Tomatina?",
+      "en": "In which country is the Tomatina festival celebrated?"
+    },
+    "respuestaCorrecta": {
+      "es": "España",
+      "en": "Spain"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["París", "Roma", "Londres", "Ámsterdam"],
+      "en": ["Paris", "Rome", "London", "Amsterdam"]
+    },
+    "pregunta": {
+      "es": "¿En qué ciudad se encuentra la Torre Eiffel?",
+      "en": "In which city is the Eiffel Tower located?"
+    },
+    "respuestaCorrecta": {
+      "es": "París",
+      "en": "Paris"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Carlos I", "Felipe II", "Isabel I", "Fernando II"],
+      "en": ["Charles I", "Philip II", "Isabel I", "Fernando II"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el rey de España durante el Siglo de Oro?",
+      "en": "Who was the King of Spain during the Golden Age?"
+    },
+    "respuestaCorrecta": {
+      "es": "Felipe II",
+      "en": "Philip II"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Da Vinci", "Picasso", "Van Gogh", "Monet"],
+      "en": ["Da Vinci", "Picasso", "Van Gogh", "Monet"]
+    },
+    "pregunta": {
+      "es": "¿Quién pintó 'La Mona Lisa'?",
+      "en": "Who painted the 'Mona Lisa'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Da Vinci",
+      "en": "Da Vinci"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Francesco Totti", "Diego Maradona", "Cristiano Ronaldo", "Lionel Messi"],
+      "en": ["Francesco Totti", "Diego Maradona", "Cristiano Ronaldo", "Lionel Messi"]
+    },
+    "pregunta": {
+      "es": "¿Quién es conocido como 'El Pibe de Oro'?",
+      "en": "Who is known as 'El Pibe de Oro'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Diego Maradona",
+      "en": "Diego Maradona"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Sahara", "Kalahari", "Gobi", "Atacama"],
+      "en": ["Sahara", "Kalahari", "Gobi", "Atacama"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el desierto más grande del mundo?",
+      "en": "What is the largest desert in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Sahara",
+      "en": "Sahara"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Alemania", "Italia", "Francia", "España"],
+      "en": ["Germany", "Italy", "France", "Spain"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se originó el fútbol?",
+      "en": "In which country did soccer originate?"
+    },
+    "respuestaCorrecta": {
+      "es": "Inglaterra",
+      "en": "England"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Miguel Ángel", "Leonardo Da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+      "en": ["Michelangelo", "Leonardo Da Vinci", "Pablo Picasso", "Vincent van Gogh"]
+    },
+    "pregunta": {
+      "es": "¿Quién pintó el techo de la Capilla Sixtina?",
+      "en": "Who painted the ceiling of the Sistine Chapel?"
+    },
+    "respuestaCorrecta": {
+      "es": "Miguel Ángel",
+      "en": "Michelangelo"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Napoleón Bonaparte", "Luis XVI", "Carlos I", "Rey Luis XIV"],
+      "en": ["Napoleon Bonaparte", "Louis XVI", "Charles I", "King Louis XIV"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el emperador francés que protagonizó las Guerras Napoleónicas?",
+      "en": "Who was the French emperor who led the Napoleonic Wars?"
+    },
+    "respuestaCorrecta": {
+      "es": "Napoleón Bonaparte",
+      "en": "Napoleon Bonaparte"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Brahms", "Beethoven", "Mozart", "Tchaikovsky"],
+      "en": ["Brahms", "Beethoven", "Mozart", "Tchaikovsky"]
+    },
+    "pregunta": {
+      "es": "¿Quién compuso la Novena Sinfonía?",
+      "en": "Who composed the Ninth Symphony?"
+    },
+    "respuestaCorrecta": {
+      "es": "Beethoven",
+      "en": "Beethoven"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Titanic", "Avatar", "Star Wars", "The Lord of the Rings"],
+      "en": ["Titanic", "Avatar", "Star Wars", "The Lord of the Rings"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la película más taquillera de todos los tiempos?",
+      "en": "What is the highest-grossing movie of all time?"
+    },
+    "respuestaCorrecta": {
+      "es": "Avatar",
+      "en": "Avatar"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Venus", "Marte", "Jupiter", "Saturno"],
+      "en": ["Venus", "Mars", "Jupiter", "Saturn"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el planeta conocido como el planeta rojo?",
+      "en": "Which planet is known as the red planet?"
+    },
+    "respuestaCorrecta": {
+      "es": "Marte",
+      "en": "Mars"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Pablo Neruda", "Gabriel García Márquez", "Mario Vargas Llosa", "Jorge Luis Borges"],
+      "en": ["Pablo Neruda", "Gabriel García Márquez", "Mario Vargas Llosa", "Jorge Luis Borges"]
+    },
+    "pregunta": {
+      "es": "¿Quién ganó el Premio Nobel de Literatura en 1971?",
+      "en": "Who won the Nobel Prize in Literature in 1971?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pablo Neruda",
+      "en": "Pablo Neruda"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Eiffel", "Burj Khalifa", "Empire State", "Big Ben"],
+      "en": ["Eiffel", "Burj Khalifa", "Empire State", "Big Ben"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el rascacielos más alto del mundo?",
+      "en": "Which is the tallest skyscraper in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Burj Khalifa",
+      "en": "Burj Khalifa"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Amanecer", "Cisne Negro", "Requiem por un sueño", "El Lobo de Wall Street"],
+      "en": ["Sunrise", "Black Swan", "Requiem for a Dream", "The Wolf of Wall Street"]
+    },
+    "pregunta": {
+      "es": "¿Cuál película ganó el Óscar a Mejor Película en 2011?",
+      "en": "Which movie won the Oscar for Best Picture in 2011?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Cisne Negro",
+      "en": "Black Swan"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Gran Cañón", "La Muralla China", "Las Pirámides de Egipto", "La Torre Eiffel"],
+      "en": ["Grand Canyon", "Great Wall of China", "Pyramids of Egypt", "Eiffel Tower"]
+    },
+    "pregunta": {
+      "es": "¿Cuál de estos es una de las 7 maravillas naturales del mundo?",
+      "en": "Which of these is one of the 7 natural wonders of the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Gran Cañón",
+      "en": "Grand Canyon"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Berlín", "Madrid", "Lisboa", "París"],
+      "en": ["Berlin", "Madrid", "Lisbon", "Paris"]
+    },
+    "pregunta": {
+      "es": "¿En qué ciudad se encuentra la Puerta de Brandeburgo?",
+      "en": "In which city is the Brandenburg Gate located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Berlín",
+      "en": "Berlin"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["5", "6", "7", "8"],
+      "en": ["5", "6", "7", "8"]
+    },
+    "pregunta": {
+      "es": "¿Cuántos continentes existen en la Tierra?",
+      "en": "How many continents are there on Earth?"
+    },
+    "respuestaCorrecta": {
+      "es": "7",
+      "en": "7"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Lago Titicaca", "El Mar Caspio", "El Mar Muerto", "El Lago de los Cisnes"],
+      "en": ["Lake Titicaca", "Caspian Sea", "Dead Sea", "Swan Lake"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el lago más grande de América del Sur?",
+      "en": "Which is the largest lake in South America?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Lago Titicaca",
+      "en": "Lake Titicaca"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Cristiano Ronaldo", "Lionel Messi", "Neymar", "Zidane"],
+      "en": ["Cristiano Ronaldo", "Lionel Messi", "Neymar", "Zidane"]
+    },
+    "pregunta": {
+      "es": "¿Quién ha ganado más Balones de Oro?",
+      "en": "Who has won the most Ballon d'Ors?"
+    },
+    "respuestaCorrecta": {
+      "es": "Lionel Messi",
+      "en": "Lionel Messi"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Isla de Pascua", "La Isla Galápagos", "Isla del Coco", "Isla de la Reunión"],
+      "en": ["Easter Island", "Galapagos Islands", "Cocos Island", "Reunion Island"]
+    },
+    "pregunta": {
+      "es": "¿Dónde se encuentran las famosas estatuas Moai?",
+      "en": "Where are the famous Moai statues located?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Isla de Pascua",
+      "en": "Easter Island"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Albert Einstein", "Marie Curie", "Isaac Newton", "Nikola Tesla"],
+      "en": ["Albert Einstein", "Marie Curie", "Isaac Newton", "Nikola Tesla"]
+    },
+    "pregunta": {
+      "es": "¿Quién desarrolló la teoría de la gravedad?",
+      "en": "Who developed the theory of gravity?"
+    },
+    "respuestaCorrecta": {
+      "es": "Isaac Newton",
+      "en": "Isaac Newton"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Nobel", "Pulitzer", "Oscar", "Grammy"],
+      "en": ["Nobel", "Pulitzer", "Oscar", "Grammy"]
+    },
+    "pregunta": {
+      "es": "¿Qué premio se otorga en reconocimiento a los logros en la paz?",
+      "en": "Which award is given for achievements in peace?"
+    },
+    "respuestaCorrecta": {
+      "es": "Nobel",
+      "en": "Nobel"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Gato con Botas", "La Bella Durmiente", "Blanca Nieves", "Cenicienta"],
+      "en": ["Puss in Boots", "Sleeping Beauty", "Snow White", "Cinderella"]
+    },
+    "pregunta": {
+      "es": "¿Qué personaje de cuento de hadas fue hechizado para dormir por 100 años?",
+      "en": "Which fairy tale character was cursed to sleep for 100 years?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Bella Durmiente",
+      "en": "Sleeping Beauty"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Mitología griega", "Mitología romana", "Mitología egipcia", "Mitología vikinga"],
+      "en": ["Greek mythology", "Roman mythology", "Egyptian mythology", "Viking mythology"]
+    },
+    "pregunta": {
+      "es": "¿De qué mitología proviene el dios Zeus?",
+      "en": "From which mythology does the god Zeus come?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mitología griega",
+      "en": "Greek mythology"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Roma", "Atenas", "Egipto", "Mesopotamia"],
+      "en": ["Rome", "Athens", "Egypt", "Mesopotamia"]
+    },
+    "pregunta": {
+      "es": "¿En qué civilización antigua se encontraba la ciudad de Babilonia?",
+      "en": "In which ancient civilization was the city of Babylon located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mesopotamia",
+      "en": "Mesopotamia"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Tierra", "El Sol", "La Luna", "Jupiter"],
+      "en": ["Earth", "Sun", "Moon", "Jupiter"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el único satélite natural de la Tierra?",
+      "en": "What is the only natural satellite of Earth?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Luna",
+      "en": "Moon"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Edgar Degas"],
+      "en": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Edgar Degas"]
+    },
+    "pregunta": {
+      "es": "¿Quién pintó 'La Noche Estrellada'?",
+      "en": "Who painted 'Starry Night'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Vincent van Gogh",
+      "en": "Vincent van Gogh"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Catar", "México", "Brasil", "Argentina"],
+      "en": ["Qatar", "Mexico", "Brazil", "Argentina"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se celebró la Copa Mundial de Fútbol 2022?",
+      "en": "In which country was the 2022 FIFA World Cup held?"
+    },
+    "respuestaCorrecta": {
+      "es": "Catar",
+      "en": "Qatar"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Francesco Totti", "Paolo Maldini", "Giuseppe Meazza", "Alessandro Del Piero"],
+      "en": ["Francesco Totti", "Paolo Maldini", "Giuseppe Meazza", "Alessandro Del Piero"]
+    },
+    "pregunta": {
+      "es": "¿Quién es conocido como el 'Capitano' de la Roma?",
+      "en": "Who is known as the 'Capitano' of Roma?"
+    },
+    "respuestaCorrecta": {
+      "es": "Francesco Totti",
+      "en": "Francesco Totti"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["India", "China", "Japón", "Nepal"],
+      "en": ["India", "China", "Japan", "Nepal"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se encuentra el Monte Everest?",
+      "en": "In which country is Mount Everest located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Nepal",
+      "en": "Nepal"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Egipto", "Irak", "Siria", "Irán"],
+      "en": ["Egypt", "Iraq", "Syria", "Iran"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se encuentra la antigua ciudad de Mesopotamia?",
+      "en": "In which country is the ancient city of Mesopotamia located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Irak",
+      "en": "Iraq"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Los Ángeles", "Las Vegas", "Miami", "Chicago"],
+      "en": ["Los Angeles", "Las Vegas", "Miami", "Chicago"]
+    },
+    "pregunta": {
+      "es": "¿En qué ciudad se encuentra el famoso cartel de Hollywood?",
+      "en": "In which city is the famous Hollywood sign located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Ángeles",
+      "en": "Los Angeles"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Albert Einstein", "Nikola Tesla", "Galileo Galilei", "Marie Curie"],
+      "en": ["Albert Einstein", "Nikola Tesla", "Galileo Galilei", "Marie Curie"]
+    },
+    "pregunta": {
+      "es": "¿Quién inventó la corriente alterna?",
+      "en": "Who invented alternating current?"
+    },
+    "respuestaCorrecta": {
+      "es": "Nikola Tesla",
+      "en": "Nikola Tesla"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Escocia", "Irlanda", "Inglaterra", "Gales"],
+      "en": ["Scotland", "Ireland", "England", "Wales"]
+    },
+    "pregunta": {
+      "es": "¿De qué país es originaria la famosa bebida whisky?",
+      "en": "Which country is the famous drink whisky from?"
+    },
+    "respuestaCorrecta": {
+      "es": "Escocia",
+      "en": "Scotland"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Barroco", "Renacimiento", "Clasicismo", "Romanticismo"],
+      "en": ["Baroque", "Renaissance", "Classicism", "Romanticism"]
+    },
+    "pregunta": {
+      "es": "¿En qué periodo artístico se originó el 'David' de Miguel Ángel?",
+      "en": "In which artistic period did Michelangelo's 'David' originate?"
+    },
+    "respuestaCorrecta": {
+      "es": "Renacimiento",
+      "en": "Renaissance"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Amor", "La Muerte", "La Vida", "El Desprecio"],
+      "en": ["Love", "Death", "Life", "Contempt"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el título de la famosa pintura de Edvard Munch?",
+      "en": "What is the title of the famous painting by Edvard Munch?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Grito",
+      "en": "The Scream"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Berlín", "Roma", "Venecia", "Madrid"],
+      "en": ["Berlin", "Rome", "Venice", "Madrid"]
+    },
+    "pregunta": {
+      "es": "¿En qué ciudad se encuentra el Coliseo?",
+      "en": "In which city is the Colosseum located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Roma",
+      "en": "Rome"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Australia", "China", "Brasil", "Estados Unidos"],
+      "en": ["Australia", "China", "Brazil", "United States"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se encuentra la Gran Barrera de Coral?",
+      "en": "In which country is the Great Barrier Reef located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Australia",
+      "en": "Australia"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Renacimiento", "Barroco", "Romanticismo", "Neoclasicismo"],
+      "en": ["Renaissance", "Baroque", "Romanticism", "Neoclassicism"]
+    },
+    "pregunta": {
+      "es": "¿En qué periodo artístico se pintó la obra 'La Última Cena'?",
+      "en": "In which artistic period was 'The Last Supper' painted?"
+    },
+    "respuestaCorrecta": {
+      "es": "Renacimiento",
+      "en": "Renaissance"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Gregor Mendel"],
+      "en": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Gregor Mendel"]
+    },
+    "pregunta": {
+      "es": "¿Quién descubrió la penicilina?",
+      "en": "Who discovered penicillin?"
+    },
+    "respuestaCorrecta": {
+      "es": "Alexander Fleming",
+      "en": "Alexander Fleming"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Río Amazonas", "Río Nilo", "Río Yangtsé", "Río Mississippi"],
+      "en": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el río más largo del mundo?",
+      "en": "Which is the longest river in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Río Amazonas",
+      "en": "Amazon River"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Tierra", "La Luna", "Marte", "Venus"],
+      "en": ["Earth", "Moon", "Mars", "Venus"]
+    },
+    "pregunta": {
+      "es": "¿En qué planeta encontramos el Monte Olimpo, el volcán más grande del sistema solar?",
+      "en": "On which planet can we find Olympus Mons, the largest volcano in the solar system?"
+    },
+    "respuestaCorrecta": {
+      "es": "Marte",
+      "en": "Mars"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Mona Lisa", "El Guernica", "La Persistencia de la Memoria", "El Jardín de las Delicias"],
+      "en": ["Mona Lisa", "Guernica", "The Persistence of Memory", "The Garden of Earthly Delights"]
+    },
+    "pregunta": {
+      "es": "¿Cuál de estas pinturas fue creada por Salvador Dalí?",
+      "en": "Which of these paintings was created by Salvador Dalí?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Persistencia de la Memoria",
+      "en": "The Persistence of Memory"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Habana", "Santiago de Cuba", "Varadero", "Cienfuegos"],
+      "en": ["Havana", "Santiago de Cuba", "Varadero", "Cienfuegos"]
+    },
+    "pregunta": {
+      "es": "¿En qué ciudad se encuentra el Malecón de Cuba?",
+      "en": "In which city is the Malecón of Cuba located?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Habana",
+      "en": "Havana"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Himno Nacional de México", "La Internacional", "God Save the Queen", "La Marsellesa"],
+      "en": ["Mexican National Anthem", "The Internationale", "God Save the Queen", "The Marseillaise"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el himno nacional de México?",
+      "en": "What is the national anthem of Mexico?"
+    },
+    "respuestaCorrecta": {
+      "es": "Himno Nacional de México",
+      "en": "Mexican National Anthem"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["5", "6", "7", "8"],
+      "en": ["5", "6", "7", "8"]
+    },
+    "pregunta": {
+      "es": "¿Cuántas estrellas tiene la bandera de los Estados Unidos?",
+      "en": "How many stars does the flag of the United States have?"
+    },
+    "respuestaCorrecta": {
+      "es": "50",
+      "en": "50"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Blanco", "Verde", "Rojo", "Azul"],
+      "en": ["White", "Green", "Red", "Blue"]
+    },
+    "pregunta": {
+      "es": "¿De qué color es el campo de la bandera de Italia?",
+      "en": "What color is the field of the Italian flag?"
+    },
+    "respuestaCorrecta": {
+      "es": "Verde",
+      "en": "Green"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Europa", "Asia", "África", "Oceanía"],
+      "en": ["Europe", "Asia", "Africa", "Oceania"]
+    },
+    "pregunta": {
+      "es": "¿En qué continente se encuentra Rusia?",
+      "en": "On which continent is Russia located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Europa y Asia",
+      "en": "Europe and Asia"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Beto Cuevas", "Ricky Martin", "Luis Fonsi", "Juanes"],
+      "en": ["Beto Cuevas", "Ricky Martin", "Luis Fonsi", "Juanes"]
+    },
+    "pregunta": {
+      "es": "¿Qué cantante interpretó la famosa canción 'La Vida Loca'?",
+      "en": "Which singer performed the famous song 'Livin' la Vida Loca'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Ricky Martin",
+      "en": "Ricky Martin"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Pablo Neruda", "Gabriel García Márquez", "Carlos Fuentes", "Julio Cortázar"],
+      "en": ["Pablo Neruda", "Gabriel García Márquez", "Carlos Fuentes", "Julio Cortázar"]
+    },
+    "pregunta": {
+      "es": "¿Quién escribió 'Cien años de soledad'?",
+      "en": "Who wrote 'One Hundred Years of Solitude'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Gabriel García Márquez",
+      "en": "Gabriel García Márquez"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Taj Mahal", "Petra", "Machu Picchu", "La Gran Muralla"],
+      "en": ["Taj Mahal", "Petra", "Machu Picchu", "Great Wall"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se encuentra el Taj Mahal?",
+      "en": "In which country is the Taj Mahal located?"
+    },
+    "respuestaCorrecta": {
+      "es": "India",
+      "en": "India"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Carne", "Frutas", "Verduras", "Lácteos"],
+      "en": ["Meat", "Fruits", "Vegetables", "Dairy"]
+    },
+    "pregunta": {
+      "es": "¿Qué alimento es conocido por ser una buena fuente de calcio?",
+      "en": "Which food is known to be a good source of calcium?"
+    },
+    "respuestaCorrecta": {
+      "es": "Lácteos",
+      "en": "Dairy"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Australia", "Canadá", "Sudáfrica", "Nueva Zelanda"],
+      "en": ["Australia", "Canada", "South Africa", "New Zealand"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se celebra el Día de Australia?",
+      "en": "In which country is Australia Day celebrated?"
+    },
+    "respuestaCorrecta": {
+      "es": "Australia",
+      "en": "Australia"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Elefante", "Jirafa", "León", "Cebra"],
+      "en": ["Elephant", "Giraffe", "Lion", "Zebra"]
+    },
+    "pregunta": {
+      "es": "¿Qué animal tiene el cuello más largo del mundo?",
+      "en": "Which animal has the longest neck in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Jirafa",
+      "en": "Giraffe"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Marte", "Venus", "Júpiter", "Saturno"],
+      "en": ["Mars", "Venus", "Jupiter", "Saturn"]
+    },
+    "pregunta": {
+      "es": "¿Qué planeta es conocido como el planeta rojo?",
+      "en": "Which planet is known as the red planet?"
+    },
+    "respuestaCorrecta": {
+      "es": "Marte",
+      "en": "Mars"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Walt Disney", "Charles Chaplin", "Steven Spielberg", "George Lucas"],
+      "en": ["Walt Disney", "Charlie Chaplin", "Steven Spielberg", "George Lucas"]
+    },
+    "pregunta": {
+      "es": "¿Quién es el creador del personaje Mickey Mouse?",
+      "en": "Who is the creator of the character Mickey Mouse?"
+    },
+    "respuestaCorrecta": {
+      "es": "Walt Disney",
+      "en": "Walt Disney"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Alemania", "Francia", "Italia", "España"],
+      "en": ["Germany", "France", "Italy", "Spain"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se celebró la primera Copa del Mundo de Fútbol?",
+      "en": "In which country was the first World Cup of Soccer held?"
+    },
+    "respuestaCorrecta": {
+      "es": "Uruguay",
+      "en": "Uruguay"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Ballet", "Jazz", "Salsa", "Bossa Nova"],
+      "en": ["Ballet", "Jazz", "Salsa", "Bossa Nova"]
+    },
+    "pregunta": {
+      "es": "¿Qué estilo de danza es conocido por su técnica clásica y elegancia?",
+      "en": "Which dance style is known for its classical technique and elegance?"
+    },
+    "respuestaCorrecta": {
+      "es": "Ballet",
+      "en": "Ballet"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Nuevo", "Viejo", "Antiguo", "Modernista"],
+      "en": ["New", "Old", "Ancient", "Modernist"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la ciudad más antigua del mundo?",
+      "en": "Which is the oldest city in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Jericó",
+      "en": "Jericho"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Tigre", "El León", "El Jaguar", "La Pantera"],
+      "en": ["The Tiger", "The Lion", "The Jaguar", "The Panther"]
+    },
+    "pregunta": {
+      "es": "¿Qué animal es conocido como el 'Rey de la Selva'?",
+      "en": "Which animal is known as the 'King of the Jungle'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El León",
+      "en": "The Lion"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Francia", "España", "Italia", "Reino Unido"],
+      "en": ["France", "Spain", "Italy", "United Kingdom"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se encuentra la Torre Eiffel?",
+      "en": "In which country is the Eiffel Tower located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Francia",
+      "en": "France"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Buda", "Krishna", "Confucio", "Mahoma"],
+      "en": ["Buddha", "Krishna", "Confucius", "Muhammad"]
+    },
+    "pregunta": {
+      "es": "¿Quién es el fundador del budismo?",
+      "en": "Who is the founder of Buddhism?"
+    },
+    "respuestaCorrecta": {
+      "es": "Buda",
+      "en": "Buddha"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Juan Sebastián Bach", "Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Frédéric Chopin"],
+      "en": ["Johann Sebastian Bach", "Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Frédéric Chopin"]
+    },
+    "pregunta": {
+      "es": "¿Quién compuso la famosa 'Oda a la Alegría'?",
+      "en": "Who composed the famous 'Ode to Joy'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Ludwig van Beethoven",
+      "en": "Ludwig van Beethoven"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Pavo", "Ganso", "Pollo", "Codorniz"],
+      "en": ["Turkey", "Goose", "Chicken", "Quail"]
+    },
+    "pregunta": {
+      "es": "¿Qué ave es tradicionalmente consumida en la cena de Acción de Gracias en Estados Unidos?",
+      "en": "Which bird is traditionally eaten for Thanksgiving dinner in the United States?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pavo",
+      "en": "Turkey"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Madrid", "Barcelona", "Valencia", "Sevilla"],
+      "en": ["Madrid", "Barcelona", "Valencia", "Seville"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la capital de España?",
+      "en": "What is the capital of Spain?"
+    },
+    "respuestaCorrecta": {
+      "es": "Madrid",
+      "en": "Madrid"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Berlín", "París", "Roma", "Londres"],
+      "en": ["Berlin", "Paris", "Rome", "London"]
+    },
+    "pregunta": {
+      "es": "¿En qué ciudad se encuentra la Torre Eiffel?",
+      "en": "In which city is the Eiffel Tower located?"
+    },
+    "respuestaCorrecta": {
+      "es": "París",
+      "en": "Paris"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"],
+      "en": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"]
+    },
+    "pregunta": {
+      "es": "¿Quién pintó 'La Mona Lisa'?",
+      "en": "Who painted 'Mona Lisa'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Leonardo da Vinci",
+      "en": "Leonardo da Vinci"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Elefante", "León", "Tigre", "Jirafa"],
+      "en": ["Elephant", "Lion", "Tiger", "Giraffe"]
+    },
+    "pregunta": {
+      "es": "¿Cuál de estos animales es conocido por sus grandes orejas?",
+      "en": "Which of these animals is known for its large ears?"
+    },
+    "respuestaCorrecta": {
+      "es": "Elefante",
+      "en": "Elephant"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Fútbol", "Básquetbol", "Tenis", "Voleibol"],
+      "en": ["Soccer", "Basketball", "Tennis", "Volleyball"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega el Super Bowl?",
+      "en": "In which sport is the Super Bowl played?"
+    },
+    "respuestaCorrecta": {
+      "es": "Fútbol americano",
+      "en": "American Football"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Golfo de México", "Mar Caribe", "Mar de Cortés", "Océano Pacífico"],
+      "en": ["Gulf of Mexico", "Caribbean Sea", "Sea of Cortez", "Pacific Ocean"]
+    },
+    "pregunta": {
+      "es": "¿Qué mar baña las costas de Yucatán en México?",
+      "en": "Which sea borders the coasts of Yucatán in Mexico?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mar Caribe",
+      "en": "Caribbean Sea"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Júpiter", "Saturno", "Neptuno", "Urano"],
+      "en": ["Jupiter", "Saturn", "Neptune", "Uranus"]
+    },
+    "pregunta": {
+      "es": "¿Qué planeta del sistema solar tiene los anillos más visibles?",
+      "en": "Which planet in the solar system has the most visible rings?"
+    },
+    "respuestaCorrecta": {
+      "es": "Saturno",
+      "en": "Saturn"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Carne", "Pescado", "Verduras", "Frutas"],
+      "en": ["Meat", "Fish", "Vegetables", "Fruits"]
+    },
+    "pregunta": {
+      "es": "¿Qué alimento es rico en proteínas y es comúnmente consumido por las personas vegetarianas?",
+      "en": "Which food is rich in protein and commonly consumed by vegetarians?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pescado",
+      "en": "Fish"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["América", "Asia", "Europa", "África"],
+      "en": ["America", "Asia", "Europe", "Africa"]
+    },
+    "pregunta": {
+      "es": "¿En qué continente se encuentra el desierto del Sahara?",
+      "en": "On which continent is the Sahara Desert located?"
+    },
+    "respuestaCorrecta": {
+      "es": "África",
+      "en": "Africa"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Sol", "La Luna", "Marte", "Venus"],
+      "en": ["The Sun", "The Moon", "Mars", "Venus"]
+    },
+    "pregunta": {
+      "es": "¿Qué objeto celeste es conocido como el satélite natural de la Tierra?",
+      "en": "Which celestial object is known as Earth's natural satellite?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Luna",
+      "en": "The Moon"
+    }
+  }, {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Miguel Ángel", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+      "en": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"]
+    },
+    "pregunta": {
+      "es": "¿Quién pintó la famosa obra 'La Última Cena'?",
+      "en": "Who painted the famous artwork 'The Last Supper'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Leonardo da Vinci",
+      "en": "Leonardo da Vinci"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Egipto", "Grecia", "Roma", "Mesopotamia"],
+      "en": ["Egypt", "Greece", "Rome", "Mesopotamia"]
+    },
+    "pregunta": {
+      "es": "¿Dónde se construyeron las pirámides más famosas?",
+      "en": "Where were the most famous pyramids built?"
+    },
+    "respuestaCorrecta": {
+      "es": "Egipto",
+      "en": "Egypt"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Agua", "Aire", "Fuego", "Tierra"],
+      "en": ["Water", "Air", "Fire", "Earth"]
+    },
+    "pregunta": {
+      "es": "¿Qué elemento es conocido como el cuarto estado de la materia?",
+      "en": "Which element is known as the fourth state of matter?"
+    },
+    "respuestaCorrecta": {
+      "es": "Plasma",
+      "en": "Plasma"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Machu Picchu", "Chichen Itzá", "Petra", "El Coliseo"],
+      "en": ["Machu Picchu", "Chichen Itza", "Petra", "The Colosseum"]
+    },
+    "pregunta": {
+      "es": "¿Dónde se encuentra la antigua ciudad inca de Machu Picchu?",
+      "en": "Where is the ancient Incan city of Machu Picchu located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Perú",
+      "en": "Peru"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Adolf Hitler", "Winston Churchill", "Franklin D. Roosevelt", "Joseph Stalin"],
+      "en": ["Adolf Hitler", "Winston Churchill", "Franklin D. Roosevelt", "Joseph Stalin"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el líder de la Alemania nazi durante la Segunda Guerra Mundial?",
+      "en": "Who was the leader of Nazi Germany during World War II?"
+    },
+    "respuestaCorrecta": {
+      "es": "Adolf Hitler",
+      "en": "Adolf Hitler"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Nelson Mandela", "Mahatma Gandhi", "Martin Luther King", "Abraham Lincoln"],
+      "en": ["Nelson Mandela", "Mahatma Gandhi", "Martin Luther King", "Abraham Lincoln"]
+    },
+    "pregunta": {
+      "es": "¿Quién luchó por la liberación de Sudáfrica del apartheid?",
+      "en": "Who fought for the liberation of South Africa from apartheid?"
+    },
+    "respuestaCorrecta": {
+      "es": "Nelson Mandela",
+      "en": "Nelson Mandela"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["3", "4", "5", "6"],
+      "en": ["3", "4", "5", "6"]
+    },
+    "pregunta": {
+      "es": "¿Cuántos continentes hay en el planeta Tierra?",
+      "en": "How many continents are there on planet Earth?"
+    },
+    "respuestaCorrecta": {
+      "es": "7",
+      "en": "7"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Río Nilo", "Río Amazonas", "Río Misisipi", "Río Yangtsé"],
+      "en": ["Nile River", "Amazon River", "Mississippi River", "Yangtze River"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el río más largo del mundo?",
+      "en": "Which is the longest river in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Río Nilo",
+      "en": "Nile River"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Fútbol", "Básquetbol", "Tenis", "Golf"],
+      "en": ["Soccer", "Basketball", "Tennis", "Golf"]
+    },
+    "pregunta": {
+      "es": "¿En qué deporte se juega la Copa del Mundo?",
+      "en": "In which sport is the World Cup played?"
+    },
+    "respuestaCorrecta": {
+      "es": "Fútbol",
+      "en": "Soccer"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Francesco Petrarca", "Dante Alighieri", "Giovanni Boccaccio", "Guido Guinizelli"],
+      "en": ["Francesco Petrarca", "Dante Alighieri", "Giovanni Boccaccio", "Guido Guinizelli"]
+    },
+    "pregunta": {
+      "es": "¿Quién escribió la 'Divina Comedia'?",
+      "en": "Who wrote the 'Divine Comedy'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Dante Alighieri",
+      "en": "Dante Alighieri"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Francia", "Italia", "España", "Grecia"],
+      "en": ["France", "Italy", "Spain", "Greece"]
+    },
+    "pregunta": {
+      "es": "¿En qué país nació la pizza?",
+      "en": "In which country was pizza invented?"
+    },
+    "respuestaCorrecta": {
+      "es": "Italia",
+      "en": "Italy"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Galileo Galilei", "Isaac Newton", "Albert Einstein", "Nikolai Tesla"],
+      "en": ["Galileo Galilei", "Isaac Newton", "Albert Einstein", "Nikola Tesla"]
+    },
+    "pregunta": {
+      "es": "¿Quién formuló la ley de la gravedad?",
+      "en": "Who formulated the law of gravity?"
+    },
+    "respuestaCorrecta": {
+      "es": "Isaac Newton",
+      "en": "Isaac Newton"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Mozart", "Beethoven", "Bach", "Vivaldi"],
+      "en": ["Mozart", "Beethoven", "Bach", "Vivaldi"]
+    },
+    "pregunta": {
+      "es": "¿Quién compuso la ópera 'La Flauta Mágica'?",
+      "en": "Who composed the opera 'The Magic Flute'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mozart",
+      "en": "Mozart"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Marte", "Júpiter", "Saturno", "Urano"],
+      "en": ["Mars", "Jupiter", "Saturn", "Uranus"]
+    },
+    "pregunta": {
+      "es": "¿Qué planeta es conocido como el planeta rojo?",
+      "en": "Which planet is known as the red planet?"
+    },
+    "respuestaCorrecta": {
+      "es": "Marte",
+      "en": "Mars"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Franz Kafka", "Leo Tolstoy", "Gabriel García Márquez", "Jorge Luis Borges"],
+      "en": ["Franz Kafka", "Leo Tolstoy", "Gabriel García Márquez", "Jorge Luis Borges"]
+    },
+    "pregunta": {
+      "es": "¿Quién escribió 'La Metamorfosis'?",
+      "en": "Who wrote 'The Metamorphosis'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Franz Kafka",
+      "en": "Franz Kafka"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["1939", "1945", "1914", "1950"],
+      "en": ["1939", "1945", "1914", "1950"]
+    },
+    "pregunta": {
+      "es": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "en": "In which year did World War II begin?"
+    },
+    "respuestaCorrecta": {
+      "es": "1939",
+      "en": "1939"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Napoleón Bonaparte", "Carlos V", "Alejandro Magno", "Julio César"],
+      "en": ["Napoleon Bonaparte", "Charles V", "Alexander the Great", "Julius Caesar"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el emperador del Imperio Francés durante las Guerras Napoleónicas?",
+      "en": "Who was the emperor of the French Empire during the Napoleonic Wars?"
+    },
+    "respuestaCorrecta": {
+      "es": "Napoleón Bonaparte",
+      "en": "Napoleon Bonaparte"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Claude Monet", "Edgar Degas", "Pierre-Auguste Renoir", "Édouard Manet"],
+      "en": ["Claude Monet", "Edgar Degas", "Pierre-Auguste Renoir", "Édouard Manet"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue uno de los fundadores del movimiento impresionista?",
+      "en": "Who was one of the founders of the Impressionist movement?"
+    },
+    "respuestaCorrecta": {
+      "es": "Claude Monet",
+      "en": "Claude Monet"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Albert Einstein", "Isaac Newton", "Marie Curie", "Nikola Tesla"],
+      "en": ["Albert Einstein", "Isaac Newton", "Marie Curie", "Nikola Tesla"]
+    },
+    "pregunta": {
+      "es": "¿Quién desarrolló la teoría de la relatividad?",
+      "en": "Who developed the theory of relativity?"
+    },
+    "respuestaCorrecta": {
+      "es": "Albert Einstein",
+      "en": "Albert Einstein"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Cleopatra", "Nefertiti", "Isis", "Hatshepsut"],
+      "en": ["Cleopatra", "Nefertiti", "Isis", "Hatshepsut"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue la última reina del antiguo Egipto?",
+      "en": "Who was the last queen of ancient Egypt?"
+    },
+    "respuestaCorrecta": {
+      "es": "Cleopatra",
+      "en": "Cleopatra"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Titanic", "Poseidón", "Costa Concordia", "Liberty of the Seas"],
+      "en": ["Titanic", "Poseidon", "Costa Concordia", "Liberty of the Seas"]
+    },
+    "pregunta": {
+      "es": "¿Qué barco se hundió en 1912 tras chocar con un iceberg?",
+      "en": "Which ship sank in 1912 after hitting an iceberg?"
+    },
+    "respuestaCorrecta": {
+      "es": "Titanic",
+      "en": "Titanic"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Ariana Grande", "Beyoncé", "Lady Gaga", "Rihanna"],
+      "en": ["Ariana Grande", "Beyoncé", "Lady Gaga", "Rihanna"]
+    },
+    "pregunta": {
+      "es": "¿Qué cantante lanzó el álbum 'Lemonade' en 2016?",
+      "en": "Which singer released the album 'Lemonade' in 2016?"
+    },
+    "respuestaCorrecta": {
+      "es": "Beyoncé",
+      "en": "Beyoncé"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Pacífico", "Atlántico", "Índico", "Ártico"],
+      "en": ["Pacific", "Atlantic", "Indian", "Arctic"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el océano más grande del mundo?",
+      "en": "Which is the largest ocean in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pacífico",
+      "en": "Pacific"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Estados Unidos", "Rusia", "China", "India"],
+      "en": ["United States", "Russia", "China", "India"]
+    },
+    "pregunta": {
+      "es": "¿Qué país tiene la mayor cantidad de territorios en el Ártico?",
+      "en": "Which country has the most territories in the Arctic?"
+    },
+    "respuestaCorrecta": {
+      "es": "Rusia",
+      "en": "Russia"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Médico", "Ingeniero", "Abogado", "Profesor"],
+      "en": ["Doctor", "Engineer", "Lawyer", "Teacher"]
+    },
+    "pregunta": {
+      "es": "¿Qué profesión es más comúnmente asociada con el cuidado de la salud?",
+      "en": "Which profession is most commonly associated with healthcare?"
+    },
+    "respuestaCorrecta": {
+      "es": "Médico",
+      "en": "Doctor"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Marte", "Venus", "Júpiter", "Saturno"],
+      "en": ["Mars", "Venus", "Jupiter", "Saturn"]
+    },
+    "pregunta": {
+      "es": "¿Qué planeta está más cerca del sol?",
+      "en": "Which planet is closest to the sun?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mercurio",
+      "en": "Mercury"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Futbolista", "Ciclista", "Atleta", "Tenista"],
+      "en": ["Soccer player", "Cyclist", "Athlete", "Tennis player"]
+    },
+    "pregunta": {
+      "es": "¿Qué tipo de deportista es Lionel Messi?",
+      "en": "What type of athlete is Lionel Messi?"
+    },
+    "respuestaCorrecta": {
+      "es": "Futbolista",
+      "en": "Soccer player"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Aguacate", "Tomate", "Pimiento", "Pepino"],
+      "en": ["Avocado", "Tomato", "Pepper", "Cucumber"]
+    },
+    "pregunta": {
+      "es": "¿Cuál de estos alimentos es un fruto, aunque a menudo se usa como vegetal en la cocina?",
+      "en": "Which of these foods is a fruit, though it's often used as a vegetable in cooking?"
+    },
+    "respuestaCorrecta": {
+      "es": "Tomate",
+      "en": "Tomato"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Herschel", "Copérnico", "Galileo", "Kepler"],
+      "en": ["Herschel", "Copernicus", "Galileo", "Kepler"]
+    },
+    "pregunta": {
+      "es": "¿Quién formuló la teoría heliocéntrica del sistema solar?",
+      "en": "Who formulated the heliocentric theory of the solar system?"
+    },
+    "respuestaCorrecta": {
+      "es": "Nicolás Copérnico",
+      "en": "Nicolaus Copernicus"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Canadá", "Estados Unidos", "México", "Cuba"],
+      "en": ["Canada", "United States", "Mexico", "Cuba"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el país más grande de América del Norte?",
+      "en": "Which is the largest country in North America?"
+    },
+    "respuestaCorrecta": {
+      "es": "Canadá",
+      "en": "Canada"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Unicornio", "Dragón", "Fénix", "Grifo"],
+      "en": ["Unicorn", "Dragon", "Phoenix", "Griffin"]
+    },
+    "pregunta": {
+      "es": "¿Cuál de estos seres mitológicos es un caballo con un cuerno en la frente?",
+      "en": "Which of these mythical creatures is a horse with a horn on its forehead?"
+    },
+    "respuestaCorrecta": {
+      "es": "Unicornio",
+      "en": "Unicorn"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Reloj", "Bicicleta", "Computadora", "Teléfono"],
+      "en": ["Watch", "Bicycle", "Computer", "Phone"]
+    },
+    "pregunta": {
+      "es": "¿Qué invento de 1876 es utilizado para la comunicación a larga distancia?",
+      "en": "What invention from 1876 is used for long-distance communication?"
+    },
+    "respuestaCorrecta": {
+      "es": "Teléfono",
+      "en": "Phone"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Alfred Hitchcock", "Stanley Kubrick", "Quentin Tarantino", "Steven Spielberg"],
+      "en": ["Alfred Hitchcock", "Stanley Kubrick", "Quentin Tarantino", "Steven Spielberg"]
+    },
+    "pregunta": {
+      "es": "¿Quién dirigió la película de suspenso 'Psicosis'?",
+      "en": "Who directed the suspense movie 'Psycho'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Alfred Hitchcock",
+      "en": "Alfred Hitchcock"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Nobel", "Oscar", "Grammy", "Tony"],
+      "en": ["Nobel", "Oscar", "Grammy", "Tony"]
+    },
+    "pregunta": {
+      "es": "¿Qué premio se otorga en reconocimiento a logros sobresalientes en la literatura?",
+      "en": "Which award is given in recognition of outstanding achievements in literature?"
+    },
+    "respuestaCorrecta": {
+      "es": "Nobel",
+      "en": "Nobel"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Pablo Neruda", "Gabriel García Márquez", "Octavio Paz", "Mario Vargas Llosa"],
+      "en": ["Pablo Neruda", "Gabriel García Márquez", "Octavio Paz", "Mario Vargas Llosa"]
+    },
+    "pregunta": {
+      "es": "¿Quién ganó el Premio Nobel de Literatura en 1990?",
+      "en": "Who won the Nobel Prize in Literature in 1990?"
+    },
+    "respuestaCorrecta": {
+      "es": "Octavio Paz",
+      "en": "Octavio Paz"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Mona Lisa", "La última cena", "El nacimiento de Venus", "El grito"],
+      "en": ["Mona Lisa", "The Last Supper", "The Birth of Venus", "The Scream"]
+    },
+    "pregunta": {
+      "es": "¿Qué famosa obra pintó Leonardo da Vinci?",
+      "en": "What famous painting was created by Leonardo da Vinci?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Mona Lisa",
+      "en": "Mona Lisa"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Alemania", "Francia", "Italia", "España"],
+      "en": ["Germany", "France", "Italy", "Spain"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se encuentra la ciudad de Berlín?",
+      "en": "In which country is the city of Berlin located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Alemania",
+      "en": "Germany"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Washington, D.C.", "Nueva York", "Los Ángeles", "Chicago"],
+      "en": ["Washington, D.C.", "New York", "Los Angeles", "Chicago"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la capital de los Estados Unidos?",
+      "en": "What is the capital of the United States?"
+    },
+    "respuestaCorrecta": {
+      "es": "Washington, D.C.",
+      "en": "Washington, D.C."
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Londres", "París", "Roma", "Berlín"],
+      "en": ["London", "Paris", "Rome", "Berlin"]
+    },
+    "pregunta": {
+      "es": "¿En qué ciudad se encuentra el Coliseo?",
+      "en": "In which city is the Colosseum located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Roma",
+      "en": "Rome"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Shakespeare", "Dickens", "Hemingway", "Austen"],
+      "en": ["Shakespeare", "Dickens", "Hemingway", "Austen"]
+    },
+    "pregunta": {
+      "es": "¿Quién escribió 'Romeo y Julieta'?",
+      "en": "Who wrote 'Romeo and Juliet'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Shakespeare",
+      "en": "Shakespeare"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Egipto", "Grecia", "Roma", "Mesopotamia"],
+      "en": ["Egypt", "Greece", "Rome", "Mesopotamia"]
+    },
+    "pregunta": {
+      "es": "¿Dónde se encuentra la famosa pirámide de Giza?",
+      "en": "Where is the famous Giza pyramid located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Egipto",
+      "en": "Egypt"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Sahara", "Kalahari", "Gobi", "Atacama"],
+      "en": ["Sahara", "Kalahari", "Gobi", "Atacama"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el desierto más grande del mundo?",
+      "en": "Which is the largest desert in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Sahara",
+      "en": "Sahara"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Escarlata", "Amarillo", "Rojo", "Naranja"],
+      "en": ["Scarlet", "Yellow", "Red", "Orange"]
+    },
+    "pregunta": {
+      "es": "¿De qué color es la bandera de China?",
+      "en": "What color is the flag of China?"
+    },
+    "respuestaCorrecta": {
+      "es": "Rojo",
+      "en": "Red"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Pianista", "Guitarrista", "Bajista", "Baterista"],
+      "en": ["Pianist", "Guitarist", "Bassist", "Drummer"]
+    },
+    "pregunta": {
+      "es": "¿Qué instrumento toca un pianista?",
+      "en": "What instrument does a pianist play?"
+    },
+    "respuestaCorrecta": {
+      "es": "Piano",
+      "en": "Piano"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Albert Einstein", "Isaac Newton", "Nikola Tesla", "Galileo Galilei"],
+      "en": ["Albert Einstein", "Isaac Newton", "Nikola Tesla", "Galileo Galilei"]
+    },
+    "pregunta": {
+      "es": "¿Quién formuló las leyes del movimiento y la gravitación universal?",
+      "en": "Who formulated the laws of motion and universal gravitation?"
+    },
+    "respuestaCorrecta": {
+      "es": "Isaac Newton",
+      "en": "Isaac Newton"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Marco Polo", "Cristóbal Colón", "Ferdinand Magellan", "Francisco Pizarro"],
+      "en": ["Marco Polo", "Christopher Columbus", "Ferdinand Magellan", "Francisco Pizarro"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el primer europeo en llegar a América?",
+      "en": "Who was the first European to reach America?"
+    },
+    "respuestaCorrecta": {
+      "es": "Cristóbal Colón",
+      "en": "Christopher Columbus"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["León", "Tigre", "Pantera", "Lince"],
+      "en": ["Lion", "Tiger", "Panther", "Lynx"]
+    },
+    "pregunta": {
+      "es": "¿Qué animal es conocido como el 'rey de la selva'?",
+      "en": "Which animal is known as the 'king of the jungle'?"
+    },
+    "respuestaCorrecta": {
+      "es": "León",
+      "en": "Lion"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Luna", "Venus", "Marte", "Mercurio"],
+      "en": ["Moon", "Venus", "Mars", "Mercury"]
+    },
+    "pregunta": {
+      "es": "¿Qué satélite natural orbita la Tierra?",
+      "en": "Which natural satellite orbits the Earth?"
+    },
+    "respuestaCorrecta": {
+      "es": "Luna",
+      "en": "Moon"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Gran Bretaña", "Francia", "España", "Portugal"],
+      "en": ["Great Britain", "France", "Spain", "Portugal"]
+    },
+    "pregunta": {
+      "es": "¿Qué país fue el principal colonizador de la India?",
+      "en": "Which country was the main colonizer of India?"
+    },
+    "respuestaCorrecta": {
+      "es": "Gran Bretaña",
+      "en": "Great Britain"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Hércules", "Aquiles", "Perseo", "Ulises"],
+      "en": ["Hercules", "Achilles", "Perseus", "Ulysses"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el héroe que realizó doce trabajos para redimir sus pecados?",
+      "en": "Who was the hero who performed twelve tasks to redeem his sins?"
+    },
+    "respuestaCorrecta": {
+      "es": "Hércules",
+      "en": "Hercules"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Azul", "Rojo", "Verde", "Amarillo"],
+      "en": ["Blue", "Red", "Green", "Yellow"]
+    },
+    "pregunta": {
+      "es": "¿De qué color es el mar en la mayoría de los mapas?",
+      "en": "What color is the sea on most maps?"
+    },
+    "respuestaCorrecta": {
+      "es": "Azul",
+      "en": "Blue"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Shakira", "Beyoncé", "Lady Gaga", "Rihanna"],
+      "en": ["Shakira", "Beyoncé", "Lady Gaga", "Rihanna"]
+    },
+    "pregunta": {
+      "es": "¿Quién cantó la canción 'Hips Don't Lie'?",
+      "en": "Who sang the song 'Hips Don't Lie'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Shakira",
+      "en": "Shakira"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Tokio", "Seúl", "Pekín", "Bangkok"],
+      "en": ["Tokyo", "Seoul", "Beijing", "Bangkok"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la capital de Japón?",
+      "en": "What is the capital of Japan?"
+    },
+    "respuestaCorrecta": {
+      "es": "Tokio",
+      "en": "Tokyo"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Machu Picchu", "Chichen Itzá", "Petra", "Tikal"],
+      "en": ["Machu Picchu", "Chichen Itza", "Petra", "Tikal"]
+    },
+    "pregunta": {
+      "es": "¿Dónde se encuentra la antigua ciudad de Machu Picchu?",
+      "en": "Where is the ancient city of Machu Picchu located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Perú",
+      "en": "Peru"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Alemania", "Francia", "Reino Unido", "Italia"],
+      "en": ["Germany", "France", "United Kingdom", "Italy"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se originó la Revolución Industrial?",
+      "en": "In which country did the Industrial Revolution begin?"
+    },
+    "respuestaCorrecta": {
+      "es": "Reino Unido",
+      "en": "United Kingdom"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["China", "Brasil", "Estados Unidos", "India"],
+      "en": ["China", "Brazil", "United States", "India"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el país más poblado del mundo?",
+      "en": "What is the most populous country in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "China",
+      "en": "China"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Carne", "Pescado", "Pollo", "Cerdo"],
+      "en": ["Beef", "Fish", "Chicken", "Pork"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el tipo de carne más consumido en la mayoría de los países del mundo?",
+      "en": "Which type of meat is most consumed worldwide?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pollo",
+      "en": "Chicken"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Albert Einstein", "Isaac Newton", "Marie Curie", "Nikola Tesla"],
+      "en": ["Albert Einstein", "Isaac Newton", "Marie Curie", "Nikola Tesla"]
+    },
+    "pregunta": {
+      "es": "¿Quién desarrolló la teoría de la relatividad?",
+      "en": "Who developed the theory of relativity?"
+    },
+    "respuestaCorrecta": {
+      "es": "Albert Einstein",
+      "en": "Albert Einstein"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Los Vengadores", "X-Men", "Justice League", "Los Cuatro Fantásticos"],
+      "en": ["The Avengers", "X-Men", "Justice League", "The Fantastic Four"]
+    },
+    "pregunta": {
+      "es": "¿Qué grupo de superhéroes fue creado por Marvel Comics?",
+      "en": "Which superhero group was created by Marvel Comics?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Vengadores",
+      "en": "The Avengers"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Librería", "Restaurante", "Cafetería", "Hotel"],
+      "en": ["Bookstore", "Restaurant", "Café", "Hotel"]
+    },
+    "pregunta": {
+      "es": "¿Dónde se venden principalmente libros?",
+      "en": "Where do you mainly buy books?"
+    },
+    "respuestaCorrecta": {
+      "es": "Librería",
+      "en": "Bookstore"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Sol", "Luna", "Marte", "Venus"],
+      "en": ["Sun", "Moon", "Mars", "Venus"]
+    },
+    "pregunta": {
+      "es": "¿Qué planeta es conocido como el 'planeta rojo'?",
+      "en": "Which planet is known as the 'Red Planet'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Marte",
+      "en": "Mars"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Hércules", "Aquiles", "Perseo", "Ulises"],
+      "en": ["Hercules", "Achilles", "Perseus", "Ulysses"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el héroe que derrotó al Minotauro?",
+      "en": "Who was the hero who defeated the Minotaur?"
+    },
+    "respuestaCorrecta": {
+      "es": "Teseo",
+      "en": "Theseus"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Brasil", "Argentina", "Uruguay", "Paraguay"],
+      "en": ["Brazil", "Argentina", "Uruguay", "Paraguay"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se celebró la Copa Mundial de Fútbol de 2014?",
+      "en": "In which country was the 2014 FIFA World Cup held?"
+    },
+    "respuestaCorrecta": {
+      "es": "Brasil",
+      "en": "Brazil"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Las Manos", "Los Ojos", "Los Oídos", "La Boca"],
+      "en": ["Hands", "Eyes", "Ears", "Mouth"]
+    },
+    "pregunta": {
+      "es": "¿Qué parte del cuerpo usamos para ver?",
+      "en": "Which part of the body do we use to see?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Ojos",
+      "en": "Eyes"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["América", "Asia", "Europa", "Oceanía"],
+      "en": ["America", "Asia", "Europe", "Oceania"]
+    },
+    "pregunta": {
+      "es": "¿En qué continente se encuentra la India?",
+      "en": "In which continent is India located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Asia",
+      "en": "Asia"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Vin Diesel", "The Rock", "Jason Statham", "Paul Walker"],
+      "en": ["Vin Diesel", "The Rock", "Jason Statham", "Paul Walker"]
+    },
+    "pregunta": {
+      "es": "¿Quién es el actor principal de la saga 'Rápidos y Furiosos'?",
+      "en": "Who is the main actor in the 'Fast & Furious' franchise?"
+    },
+    "respuestaCorrecta": {
+      "es": "Vin Diesel",
+      "en": "Vin Diesel"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["David", "Goliat", "Saúl", "Sansón"],
+      "en": ["David", "Goliath", "Saul", "Samson"]
+    },
+    "pregunta": {
+      "es": "¿Quién derrotó a Goliat con una piedra?",
+      "en": "Who defeated Goliath with a stone?"
+    },
+    "respuestaCorrecta": {
+      "es": "David",
+      "en": "David"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Kilimanjaro", "Everest", "Andes", "Alpes"],
+      "en": ["Kilimanjaro", "Everest", "Andes", "Alps"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la montaña más alta del mundo?",
+      "en": "Which is the tallest mountain in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "Everest",
+      "en": "Everest"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Estados Unidos", "Rusia", "China", "India"],
+      "en": ["United States", "Russia", "China", "India"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es el país más grande del mundo por superficie?",
+      "en": "Which is the largest country in the world by area?"
+    },
+    "respuestaCorrecta": {
+      "es": "Rusia",
+      "en": "Russia"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Pedro", "Pablo", "Juan", "Andrés"],
+      "en": ["Peter", "Paul", "John", "Andrew"]
+    },
+    "pregunta": {
+      "es": "¿Qué apóstol negó a Jesús tres veces?",
+      "en": "Which apostle denied Jesus three times?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pedro",
+      "en": "Peter"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Tierra", "Marte", "Júpiter", "Venus"],
+      "en": ["Earth", "Mars", "Jupiter", "Venus"]
+    },
+    "pregunta": {
+      "es": "¿En qué planeta vivimos?",
+      "en": "Which planet do we live on?"
+    },
+    "respuestaCorrecta": {
+      "es": "Tierra",
+      "en": "Earth"
+    }
+  },{
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Japón", "China", "Corea del Sur", "Vietnam"],
+      "en": ["Japan", "China", "South Korea", "Vietnam"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se originó el sushi?",
+      "en": "In which country did sushi originate?"
+    },
+    "respuestaCorrecta": {
+      "es": "Japón",
+      "en": "Japan"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Alicia en el País de las Maravillas", "El Mago de Oz", "Cenicienta", "Blanca Nieves"],
+      "en": ["Alice in Wonderland", "The Wizard of Oz", "Cinderella", "Snow White"]
+    },
+    "pregunta": {
+      "es": "¿En qué libro aparece un personaje llamado 'Gato Cheshire'?",
+      "en": "In which book does a character called 'Cheshire Cat' appear?"
+    },
+    "respuestaCorrecta": {
+      "es": "Alicia en el País de las Maravillas",
+      "en": "Alice in Wonderland"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Diana", "Afrodita", "Hera", "Atenea"],
+      "en": ["Diana", "Aphrodite", "Hera", "Athena"]
+    },
+    "pregunta": {
+      "es": "¿Qué diosa griega es conocida como la diosa de la caza?",
+      "en": "Which Greek goddess is known as the goddess of hunting?"
+    },
+    "respuestaCorrecta": {
+      "es": "Diana",
+      "en": "Diana"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Francia", "Italia", "España", "Portugal"],
+      "en": ["France", "Italy", "Spain", "Portugal"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se originó la pizza?",
+      "en": "In which country did pizza originate?"
+    },
+    "respuestaCorrecta": {
+      "es": "Italia",
+      "en": "Italy"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Plutón", "Neptuno", "Saturno", "Urano"],
+      "en": ["Pluto", "Neptune", "Saturn", "Uranus"]
+    },
+    "pregunta": {
+      "es": "¿Qué planeta se considera el más lejano del sistema solar?",
+      "en": "Which planet is considered the farthest from the solar system?"
+    },
+    "respuestaCorrecta": {
+      "es": "Plutón",
+      "en": "Pluto"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La Mona Lisa", "El Grito", "La Persistencia de la Memoria", "Las Meninas"],
+      "en": ["Mona Lisa", "The Scream", "The Persistence of Memory", "Las Meninas"]
+    },
+    "pregunta": {
+      "es": "¿Qué famosa pintura fue creada por Leonardo da Vinci?",
+      "en": "Which famous painting was created by Leonardo da Vinci?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Mona Lisa",
+      "en": "Mona Lisa"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Rafael", "Miguel Ángel", "Leonardo da Vinci", "Donatello"],
+      "en": ["Raphael", "Michelangelo", "Leonardo da Vinci", "Donatello"]
+    },
+    "pregunta": {
+      "es": "¿Quién pintó la Capilla Sixtina?",
+      "en": "Who painted the Sistine Chapel?"
+    },
+    "respuestaCorrecta": {
+      "es": "Miguel Ángel",
+      "en": "Michelangelo"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Madrid", "Barcelona", "Valencia", "Sevilla"],
+      "en": ["Madrid", "Barcelona", "Valencia", "Seville"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la capital de España?",
+      "en": "What is the capital of Spain?"
+    },
+    "respuestaCorrecta": {
+      "es": "Madrid",
+      "en": "Madrid"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Amazonas", "El Nilo", "El Yangtsé", "El Ganges"],
+      "en": ["Amazon", "Nile", "Yangtze", "Ganges"]
+    },
+    "pregunta": {
+      "es": "¿Qué río es considerado el más largo del mundo?",
+      "en": "Which river is considered the longest in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Nilo",
+      "en": "Nile"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Río de Janeiro", "São Paulo", "Brasilia", "Salvador"],
+      "en": ["Rio de Janeiro", "São Paulo", "Brasilia", "Salvador"]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la capital de Brasil?",
+      "en": "What is the capital of Brazil?"
+    },
+    "respuestaCorrecta": {
+      "es": "Brasilia",
+      "en": "Brasilia"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Rey León", "Cenicienta", "Aladdin", "La Bella y la Bestia"],
+      "en": ["The Lion King", "Cinderella", "Aladdin", "Beauty and the Beast"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Disney tiene como protagonista a un león llamado Simba?",
+      "en": "Which Disney movie features a lion named Simba as the main character?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Rey León",
+      "en": "The Lion King"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
+      "en": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el primer hombre en pisar la Luna?",
+      "en": "Who was the first man to walk on the Moon?"
+    },
+    "respuestaCorrecta": {
+      "es": "Neil Armstrong",
+      "en": "Neil Armstrong"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Héctor", "Aquiles", "Paris", "Odiseo"],
+      "en": ["Hector", "Achilles", "Paris", "Odysseus"]
+    },
+    "pregunta": {
+      "es": "¿Qué héroe griego fue conocido como el más grande guerrero de la guerra de Troya?",
+      "en": "Which Greek hero was known as the greatest warrior of the Trojan War?"
+    },
+    "respuestaCorrecta": {
+      "es": "Aquiles",
+      "en": "Achilles"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Tierra", "Venus", "Marte", "Saturno"],
+      "en": ["Earth", "Venus", "Mars", "Saturn"]
+    },
+    "pregunta": {
+      "es": "¿En qué planeta se encuentra el monte Olimpo?",
+      "en": "On which planet is Olympus Mons located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Marte",
+      "en": "Mars"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Vincent van Gogh", "Pablo Picasso", "Salvador Dalí", "Claude Monet"],
+      "en": ["Vincent van Gogh", "Pablo Picasso", "Salvador Dalí", "Claude Monet"]
+    },
+    "pregunta": {
+      "es": "¿Qué pintor es conocido por su obra 'La noche estrellada'?",
+      "en": "Which painter is known for his work 'Starry Night'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Vincent van Gogh",
+      "en": "Vincent van Gogh"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Francia", "Italia", "España", "Alemania"],
+      "en": ["France", "Italy", "Spain", "Germany"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se encuentra la Torre Eiffel?",
+      "en": "In which country is the Eiffel Tower located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Francia",
+      "en": "France"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Francia", "Bélgica", "Holanda", "Italia"],
+      "en": ["France", "Belgium", "Netherlands", "Italy"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se originó la croissant?",
+      "en": "In which country was the croissant originated?"
+    },
+    "respuestaCorrecta": {
+      "es": "Francia",
+      "en": "France"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["El Mago de Oz", "Alicia en el País de las Maravillas", "El Señor de los Anillos", "La historia interminable"],
+      "en": ["The Wizard of Oz", "Alice in Wonderland", "The Lord of the Rings", "The Neverending Story"]
+    },
+    "pregunta": {
+      "es": "¿En qué historia se encuentra la ciudad de Esmeralda?",
+      "en": "In which story can the Emerald City be found?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Mago de Oz",
+      "en": "The Wizard of Oz"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Londres", "Edimburgo", "Dublín", "París"],
+      "en": ["London", "Edinburgh", "Dublin", "Paris"]
+    },
+    "pregunta": {
+      "es": "¿En qué ciudad se encuentra el Big Ben?",
+      "en": "In which city is the Big Ben located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Londres",
+      "en": "London"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Michael Jackson", "Elvis Presley", "Freddie Mercury", "John Lennon"],
+      "en": ["Michael Jackson", "Elvis Presley", "Freddie Mercury", "John Lennon"]
+    },
+    "pregunta": {
+      "es": "¿Quién es conocido como el 'Rey del Pop'?",
+      "en": "Who is known as the 'King of Pop'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Michael Jackson",
+      "en": "Michael Jackson"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["5", "6", "7", "8"],
+      "en": ["5", "6", "7", "8"]
+    },
+    "pregunta": {
+      "es": "¿Cuántos continentes hay en el mundo?",
+      "en": "How many continents are there in the world?"
+    },
+    "respuestaCorrecta": {
+      "es": "7",
+      "en": "7"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Estudio Ghibli", "Pixar", "Walt Disney", "DreamWorks"],
+      "en": ["Studio Ghibli", "Pixar", "Walt Disney", "DreamWorks"]
+    },
+    "pregunta": {
+      "es": "¿Qué estudio de animación japonés es conocido por películas como 'Mi vecino Totoro' y 'El viaje de Chihiro'?",
+      "en": "Which Japanese animation studio is known for movies like 'My Neighbor Totoro' and 'Spirited Away'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Estudio Ghibli",
+      "en": "Studio Ghibli"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["La guitarra", "El piano", "El violín", "El saxofón"],
+      "en": ["Guitar", "Piano", "Violin", "Saxophone"]
+    },
+    "pregunta": {
+      "es": "¿Qué instrumento musical tiene seis cuerdas?",
+      "en": "Which musical instrument has six strings?"
+    },
+    "respuestaCorrecta": {
+      "es": "La guitarra",
+      "en": "Guitar"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Shakespeare", "Goethe", "Dante", "Cervantes"],
+      "en": ["Shakespeare", "Goethe", "Dante", "Cervantes"]
+    },
+    "pregunta": {
+      "es": "¿Quién escribió 'Don Quijote de la Mancha'?",
+      "en": "Who wrote 'Don Quixote de la Mancha'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Cervantes",
+      "en": "Cervantes"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Hannibal", "Alejandro Magno", "César", "Napoleón"],
+      "en": ["Hannibal", "Alexander the Great", "Caesar", "Napoleon"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el general que cruzó los Alpes con elefantes en la Segunda Guerra Púnica?",
+      "en": "Who was the general who crossed the Alps with elephants in the Second Punic War?"
+    },
+    "respuestaCorrecta": {
+      "es": "Hannibal",
+      "en": "Hannibal"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Mercurio", "Venus", "Marte", "Júpiter"],
+      "en": ["Mercury", "Venus", "Mars", "Jupiter"]
+    },
+    "pregunta": {
+      "es": "¿Qué planeta es conocido como el 'planeta rojo'?",
+      "en": "Which planet is known as the 'red planet'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Marte",
+      "en": "Mars"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Shrek", "Toy Story", "Alicia en el País de las Maravillas", "Monsters, Inc."],
+      "en": ["Shrek", "Toy Story", "Alice in Wonderland", "Monsters, Inc."]
+    },
+    "pregunta": {
+      "es": "¿En qué película animada aparece el personaje de Fiona?",
+      "en": "In which animated movie does the character Fiona appear?"
+    },
+    "respuestaCorrecta": {
+      "es": "Shrek",
+      "en": "Shrek"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Nueva York", "Los Ángeles", "Chicago", "San Francisco"],
+      "en": ["New York", "Los Angeles", "Chicago", "San Francisco"]
+    },
+    "pregunta": {
+      "es": "¿En qué ciudad de Estados Unidos se encuentra la Estatua de la Libertad?",
+      "en": "In which U.S. city is the Statue of Liberty located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Nueva York",
+      "en": "New York"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Francia", "Rusia", "Italia", "Inglaterra"],
+      "en": ["France", "Russia", "Italy", "England"]
+    },
+    "pregunta": {
+      "es": "¿En qué país se encuentra la ciudad de París?",
+      "en": "In which country is the city of Paris located?"
+    },
+    "respuestaCorrecta": {
+      "es": "Francia",
+      "en": "France"
+    }
+  },
+  {
+    "categoriaID": "U9X2GbuDbOMA2ls4ewap",
+    "opciones": {
+      "es": ["Carlos I", "Felipe II", "Isabel la Católica", "Fernando el Católico"],
+      "en": ["Charles I", "Philip II", "Isabella I", "Ferdinand the Catholic"]
+    },
+    "pregunta": {
+      "es": "¿Quién fue el rey de España que gobernó durante la llamada 'Edad de Oro'?",
+      "en": "Who was the King of Spain that ruled during the 'Golden Age'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Felipe II",
+      "en": "Philip II"
+    }
+  } 
+]

@@ -1,0 +1,2142 @@
+[
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Padrino", "Titanic", "Forrest Gump", "Pulp Fiction"],
+      "en": ["The Godfather", "Titanic", "Forrest Gump", "Pulp Fiction"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Francis Ford Coppola?",
+      "en": "Which movie is directed by Francis Ford Coppola?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Padrino",
+      "en": "The Godfather"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "Harry Potter",
+        "El Señor de los Anillos",
+        "Star Wars",
+        "Juego de Tronos"
+      ],
+      "en": [
+        "Harry Potter",
+        "The Lord of the Rings",
+        "Star Wars",
+        "Game of Thrones"
+      ]
+    },
+    "pregunta": {
+      "es": "¿En qué saga aparece el personaje de Frodo Bolsón?",
+      "en": "In which saga does the character Frodo Baggins appear?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "Breaking Bad",
+        "The Walking Dead",
+        "Stranger Things",
+        "Game of Thrones"
+      ],
+      "en": [
+        "Breaking Bad",
+        "The Walking Dead",
+        "Stranger Things",
+        "Game of Thrones"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como protagonista a Walter White?",
+      "en": "Which series features Walter White as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Breaking Bad",
+      "en": "Breaking Bad"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Iron Man", "Thor", "Capitán América", "Hulk"],
+      "en": ["Iron Man", "Thor", "Captain America", "Hulk"]
+    },
+    "pregunta": {
+      "es": "¿Qué superhéroe de Marvel es interpretado por Robert Downey Jr.?",
+      "en": "Which Marvel superhero is played by Robert Downey Jr.?"
+    },
+    "respuestaCorrecta": {
+      "es": "Iron Man",
+      "en": "Iron Man"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Friends", "The Office", "How I Met Your Mother", "Seinfeld"],
+      "en": ["Friends", "The Office", "How I Met Your Mother", "Seinfeld"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como personaje principal a Ross Geller?",
+      "en": "Which series features Ross Geller as a main character?"
+    },
+    "respuestaCorrecta": {
+      "es": "Friends",
+      "en": "Friends"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "Avatar",
+        "Titanic",
+        "Star Wars: El despertar de la Fuerza",
+        "Avengers: Endgame"
+      ],
+      "en": [
+        "Avatar",
+        "Titanic",
+        "Star Wars: The Force Awakens",
+        "Avengers: Endgame"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Cuál es la película más taquillera de la historia?",
+      "en": "What is the highest-grossing movie of all time?"
+    },
+    "respuestaCorrecta": {
+      "es": "Avatar",
+      "en": "Avatar"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Juego de Tronos", "Breaking Bad", "Stranger Things", "The Crown"],
+      "en": ["Game of Thrones", "Breaking Bad", "Stranger Things", "The Crown"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie está basada en los libros de George R.R. Martin?",
+      "en": "Which series is based on the books by George R.R. Martin?"
+    },
+    "respuestaCorrecta": {
+      "es": "Juego de Tronos",
+      "en": "Game of Thrones"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["La La Land", "Moonlight", "El Renacido", "Spotlight"],
+      "en": ["La La Land", "Moonlight", "The Revenant", "Spotlight"]
+    },
+    "pregunta": {
+      "es": "¿Qué película ganó el Oscar a Mejor Película en 2017?",
+      "en": "Which movie won the Academy Award for Best Picture in 2017?"
+    },
+    "respuestaCorrecta": {
+      "es": "Moonlight",
+      "en": "Moonlight"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Beatles", "Queen", "Led Zeppelin", "Pink Floyd"],
+      "en": ["The Beatles", "Queen", "Led Zeppelin", "Pink Floyd"]
+    },
+    "pregunta": {
+      "es": "¿Qué banda es conocida por la película 'Bohemian Rhapsody'?",
+      "en": "Which band is known for the movie 'Bohemian Rhapsody'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Queen",
+      "en": "Queen"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Rey León", "Toy Story", "Frozen", "Shrek"],
+      "en": ["The Lion King", "Toy Story", "Frozen", "Shrek"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de animación tiene como protagonista a Simba?",
+      "en": "Which animated movie features Simba as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Rey León",
+      "en": "The Lion King"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Matrix", "Inception", "Interstellar", "Blade Runner"],
+      "en": ["Matrix", "Inception", "Interstellar", "Blade Runner"]
+    },
+    "pregunta": {
+      "es": "¿Qué película tiene como protagonista a Neo?",
+      "en": "Which movie features Neo as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Matrix",
+      "en": "Matrix"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Stranger Things", "The Witcher", "Black Mirror", "Westworld"],
+      "en": ["Stranger Things", "The Witcher", "Black Mirror", "Westworld"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie está ambientada en el pueblo ficticio de Hawkins?",
+      "en": "Which series is set in the fictional town of Hawkins?"
+    },
+    "respuestaCorrecta": {
+      "es": "Stranger Things",
+      "en": "Stranger Things"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Resplandor", "Psicosis", "El Exorcista", "Halloween"],
+      "en": ["The Shining", "Psycho", "The Exorcist", "Halloween"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de terror está basada en la novela de Stephen King?",
+      "en": "Which horror movie is based on the novel by Stephen King?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Resplandor",
+      "en": "The Shining"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Joker", "Deadpool", "Venom", "Loki"],
+      "en": ["Joker", "Deadpool", "Venom", "Loki"]
+    },
+    "pregunta": {
+      "es": "¿Qué personaje de cómic es interpretado por Joaquin Phoenix en la película de 2019?",
+      "en": "Which comic book character is played by Joaquin Phoenix in the 2019 movie?"
+    },
+    "respuestaCorrecta": {
+      "es": "Joker",
+      "en": "Joker"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Rick y Morty", "South Park"],
+      "en": ["The Simpsons", "Family Guy", "Rick and Morty", "South Park"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a Homer Simpson?",
+      "en": "Which animated series features Homer Simpson as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Simpson",
+      "en": "The Simpsons"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Jurassic Park", "King Kong", "Godzilla", "Alien"],
+      "en": ["Jurassic Park", "King Kong", "Godzilla", "Alien"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Steven Spielberg y trata sobre dinosaurios?",
+      "en": "Which movie is directed by Steven Spielberg and is about dinosaurs?"
+    },
+    "respuestaCorrecta": {
+      "es": "Jurassic Park",
+      "en": "Jurassic Park"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la reina Isabel II de Inglaterra?",
+      "en": "Which series follows the life of Queen Elizabeth II of England?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "El Señor de los Anillos",
+        "Harry Potter",
+        "Star Wars",
+        "El Hobbit"
+      ],
+      "en": ["The Lord of the Rings", "Harry Potter", "Star Wars", "The Hobbit"]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'Las dos torres'?",
+      "en": "Which saga includes the movie 'The Two Towers'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Black Panther", "Iron Man", "Thor", "Spider-Man"],
+      "en": ["Black Panther", "Iron Man", "Thor", "Spider-Man"]
+    },
+    "pregunta": {
+      "es": "¿Qué superhéroe de Marvel es el rey de Wakanda?",
+      "en": "Which Marvel superhero is the king of Wakanda?"
+    },
+    "respuestaCorrecta": {
+      "es": "Black Panther",
+      "en": "Black Panther"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["La Casa de Papel", "Narcos", "Elite", "Vis a Vis"],
+      "en": ["Money Heist", "Narcos", "Elite", "Vis a Vis"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie española trata sobre un grupo de atracadores que asaltan la Fábrica Nacional de Moneda y Timbre?",
+      "en": "Which Spanish series is about a group of robbers who assault the Royal Mint of Spain?"
+    },
+    "respuestaCorrecta": {
+      "es": "La Casa de Papel",
+      "en": "Money Heist"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Forrest Gump", "Titanic", "Gladiador", "El Padrino"],
+      "en": ["Forrest Gump", "Titanic", "Gladiator", "The Godfather"]
+    },
+    "pregunta": {
+      "es": "¿Qué película ganó el Oscar a Mejor Película en 1995?",
+      "en": "Which movie won the Academy Award for Best Picture in 1995?"
+    },
+    "respuestaCorrecta": {
+      "es": "Forrest Gump",
+      "en": "Forrest Gump"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "The Walking Dead",
+        "Breaking Bad",
+        "Stranger Things",
+        "Game of Thrones"
+      ],
+      "en": [
+        "The Walking Dead",
+        "Breaking Bad",
+        "Stranger Things",
+        "Game of Thrones"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como protagonista a Rick Grimes?",
+      "en": "Which series features Rick Grimes as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Walking Dead",
+      "en": "The Walking Dead"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Rey León", "Aladdín", "Frozen", "Moana"],
+      "en": ["The Lion King", "Aladdin", "Frozen", "Moana"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Disney tiene como protagonista a un joven que descubre una lámpara mágica?",
+      "en": "Which Disney movie features a young man who discovers a magic lamp?"
+    },
+    "respuestaCorrecta": {
+      "es": "Aladdín",
+      "en": "Aladdin"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "The Office",
+        "Parks and Recreation",
+        "Brooklyn Nine-Nine",
+        "Modern Family"
+      ],
+      "en": [
+        "The Office",
+        "Parks and Recreation",
+        "Brooklyn Nine-Nine",
+        "Modern Family"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como personaje principal a Michael Scott?",
+      "en": "Which series features Michael Scott as the main character?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Office",
+      "en": "The Office"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Silencio de los Corderos", "Seven", "Zodiac", "Memento"],
+      "en": ["The Silence of the Lambs", "Seven", "Zodiac", "Memento"]
+    },
+    "pregunta": {
+      "es": "¿Qué película tiene como villano a Hannibal Lecter?",
+      "en": "Which movie features Hannibal Lecter as the villain?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Silencio de los Corderos",
+      "en": "The Silence of the Lambs"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "Harry Potter",
+        "El Señor de los Anillos",
+        "Las Crónicas de Narnia",
+        "Juego de Tronos"
+      ],
+      "en": [
+        "Harry Potter",
+        "The Lord of the Rings",
+        "The Chronicles of Narnia",
+        "Game of Thrones"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'El prisionero de Azkaban'?",
+      "en": "Which saga includes the movie 'The Prisoner of Azkaban'?"
+    },
+    "respuestaCorrecta": {
+      "es": "Harry Potter",
+      "en": "Harry Potter"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Mandalorian", "Stranger Things", "The Witcher", "Westworld"],
+      "en": ["The Mandalorian", "Stranger Things", "The Witcher", "Westworld"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie está ambientada en el universo de Star Wars?",
+      "en": "Which series is set in the Star Wars universe?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Mandalorian",
+      "en": "The Mandalorian"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Titanic", "Avatar", "El Renacido", "Origen"],
+      "en": ["Titanic", "Avatar", "The Revenant", "Inception"]
+    },
+    "pregunta": {
+      "es": "¿Qué película dirigida por James Cameron ganó 11 premios Oscar?",
+      "en": "Which movie directed by James Cameron won 11 Academy Awards?"
+    },
+    "respuestaCorrecta": {
+      "es": "Titanic",
+      "en": "Titanic"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "The Big Bang Theory",
+        "Friends",
+        "How I Met Your Mother",
+        "Two and a Half Men"
+      ],
+      "en": [
+        "The Big Bang Theory",
+        "Friends",
+        "How I Met Your Mother",
+        "Two and a Half Men"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como protagonista a Sheldon Cooper?",
+      "en": "Which series features Sheldon Cooper as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Big Bang Theory",
+      "en": "The Big Bang Theory"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Caballero Oscuro", "V de Vendetta", "Watchmen", "Logan"],
+      "en": ["The Dark Knight", "V for Vendetta", "Watchmen", "Logan"]
+    },
+    "pregunta": {
+      "es": "¿Qué película tiene como villano al Joker interpretado por Heath Ledger?",
+      "en": "Which movie features the Joker played by Heath Ledger as the villain?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Caballero Oscuro",
+      "en": "The Dark Knight"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Stranger Things", "The Witcher", "Black Mirror", "Westworld"],
+      "en": ["Stranger Things", "The Witcher", "Black Mirror", "Westworld"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como protagonista a Eleven?",
+      "en": "Which series features Eleven as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Stranger Things",
+      "en": "Stranger Things"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "Los Vengadores",
+        "Guardianes de la Galaxia",
+        "Los Increíbles",
+        "X-Men"
+      ],
+      "en": [
+        "The Avengers",
+        "Guardians of the Galaxy",
+        "The Incredibles",
+        "X-Men"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué película de superhéroes tiene como protagonista a un grupo que incluye a Iron Man, Thor y Capitán América?",
+      "en": "Which superhero movie features a group that includes Iron Man, Thor, and Captain America?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Vengadores",
+      "en": "The Avengers"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"],
+      "en": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie está basada en los libros de Andrzej Sapkowski?",
+      "en": "Which series is based on the books by Andrzej Sapkowski?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Witcher",
+      "en": "The Witcher"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "El Laberinto del Fauno",
+        "El Orfanato",
+        "El Espinazo del Diablo",
+        "Los Otros"
+      ],
+      "en": [
+        "Pan's Labyrinth",
+        "The Orphanage",
+        "The Devil's Backbone",
+        "The Others"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Guillermo del Toro está ambientada en la España de posguerra?",
+      "en": "Which Guillermo del Toro movie is set in post-war Spain?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Laberinto del Fauno",
+      "en": "Pan's Labyrinth"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "Mad Max: Furia en la Carretera",
+        "Blade Runner 2049",
+        "Dune",
+        "Interestelar"
+      ],
+      "en": ["Mad Max: Fury Road", "Blade Runner 2049", "Dune", "Interstellar"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por George Miller?",
+      "en": "Which movie is directed by George Miller?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mad Max: Furia en la Carretera",
+      "en": "Mad Max: Fury Road"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "The Office",
+        "Parks and Recreation",
+        "Brooklyn Nine-Nine",
+        "Modern Family"
+      ],
+      "en": [
+        "The Office",
+        "Parks and Recreation",
+        "Brooklyn Nine-Nine",
+        "Modern Family"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como personaje principal a Leslie Knope?",
+      "en": "Which series features Leslie Knope as the main character?"
+    },
+    "respuestaCorrecta": {
+      "es": "Parks and Recreation",
+      "en": "Parks and Recreation"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "El Señor de los Anillos",
+        "Harry Potter",
+        "Las Crónicas de Narnia",
+        "Juego de Tronos"
+      ],
+      "en": [
+        "The Lord of the Rings",
+        "Harry Potter",
+        "The Chronicles of Narnia",
+        "Game of Thrones"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'El retorno del rey'?",
+      "en": "Which saga includes the movie 'The Return of the King'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "Black Mirror",
+        "Westworld",
+        "Stranger Things",
+        "The Handmaid's Tale"
+      ],
+      "en": [
+        "Black Mirror",
+        "Westworld",
+        "Stranger Things",
+        "The Handmaid's Tale"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué serie explora temas distópicos y de tecnología avanzada?",
+      "en": "Which series explores dystopian themes and advanced technology?"
+    },
+    "respuestaCorrecta": {
+      "es": "Black Mirror",
+      "en": "Black Mirror"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "El Gran Lebowski",
+        "Fargo",
+        "No Country for Old Men",
+        "Burn After Reading"
+      ],
+      "en": [
+        "The Big Lebowski",
+        "Fargo",
+        "No Country for Old Men",
+        "Burn After Reading"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué película de los hermanos Coen tiene como protagonista a Jeff Bridges?",
+      "en": "Which Coen brothers movie features Jeff Bridges as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Gran Lebowski",
+      "en": "The Big Lebowski"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Bob Esponja", "South Park"],
+      "en": [
+        "The Simpsons",
+        "Family Guy",
+        "SpongeBob SquarePants",
+        "South Park"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a una esponja que vive en una piña bajo el mar?",
+      "en": "Which animated series features a sponge who lives in a pineapple under the sea?"
+    },
+    "respuestaCorrecta": {
+      "es": "Bob Esponja",
+      "en": "SpongeBob SquarePants"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Rey León", "Aladdín", "Frozen", "Moana"],
+      "en": ["The Lion King", "Aladdin", "Frozen", "Moana"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Disney tiene como protagonista a una joven que viaja por el océano para salvar a su pueblo?",
+      "en": "Which Disney movie features a young girl who travels across the ocean to save her people?"
+    },
+    "respuestaCorrecta": {
+      "es": "Moana",
+      "en": "Moana"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "The Walking Dead",
+        "Breaking Bad",
+        "Stranger Things",
+        "Game of Thrones"
+      ],
+      "en": [
+        "The Walking Dead",
+        "Breaking Bad",
+        "Stranger Things",
+        "Game of Thrones"
+      ]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como antagonista principal a Negan?",
+      "en": "Which series features Negan as the main antagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Walking Dead",
+      "en": "The Walking Dead"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Padrino", "Titanic", "Forrest Gump", "Pulp Fiction"],
+      "en": ["The Godfather", "Titanic", "Forrest Gump", "Pulp Fiction"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Quentin Tarantino?",
+      "en": "Which movie is directed by Quentin Tarantino?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pulp Fiction",
+      "en": "Pulp Fiction"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la familia real británica?",
+      "en": "Which series follows the life of the British royal family?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Resplandor", "Psicosis", "El Exorcista", "Halloween"],
+      "en": ["The Shining", "Psycho", "The Exorcist", "Halloween"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de terror está basada en la novela de Stephen King?",
+      "en": "Which horror movie is based on the novel by Stephen King?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Resplandor",
+      "en": "The Shining"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Joker", "Deadpool", "Venom", "Loki"],
+      "en": ["Joker", "Deadpool", "Venom", "Loki"]
+    },
+    "pregunta": {
+      "es": "¿Qué personaje de cómic es interpretado por Joaquin Phoenix en la película de 2019?",
+      "en": "Which comic book character is played by Joaquin Phoenix in the 2019 movie?"
+    },
+    "respuestaCorrecta": {
+      "es": "Joker",
+      "en": "Joker"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Rick y Morty", "South Park"],
+      "en": ["The Simpsons", "Family Guy", "Rick and Morty", "South Park"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a Homer Simpson?",
+      "en": "Which animated series features Homer Simpson as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Simpson",
+      "en": "The Simpsons"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Jurassic Park", "King Kong", "Godzilla", "Alien"],
+      "en": ["Jurassic Park", "King Kong", "Godzilla", "Alien"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Steven Spielberg y trata sobre dinosaurios?",
+      "en": "Which movie is directed by Steven Spielberg and is about dinosaurs?"
+    },
+    "respuestaCorrecta": {
+      "es": "Jurassic Park",
+      "en": "Jurassic Park"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la reina Isabel II de Inglaterra?",
+      "en": "Which series follows the life of Queen Elizabeth II of England?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": [
+        "El Señor de los Anillos",
+        "Harry Potter",
+        "Star Wars",
+        "El Hobbit"
+      ],
+      "en": ["The Lord of the Rings", "Harry Potter", "Star Wars", "The Hobbit"]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'Las dos torres'?",
+      "en": "Which saga includes the movie 'The Two Towers'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Vengadores", "Guardianes de la Galaxia", "Los Increíbles", "X-Men"],
+      "en": ["The Avengers", "Guardians of the Galaxy", "The Incredibles", "X-Men"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de superhéroes tiene como protagonista a un grupo que incluye a Iron Man, Thor y Capitán América?",
+      "en": "Which superhero movie features a group that includes Iron Man, Thor, and Captain America?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Vengadores",
+      "en": "The Avengers"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"],
+      "en": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie está basada en los libros de Andrzej Sapkowski?",
+      "en": "Which series is based on the books by Andrzej Sapkowski?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Witcher",
+      "en": "The Witcher"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Laberinto del Fauno", "El Orfanato", "El Espinazo del Diablo", "Los Otros"],
+      "en": ["Pan's Labyrinth", "The Orphanage", "The Devil's Backbone", "The Others"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Guillermo del Toro está ambientada en la España de posguerra?",
+      "en": "Which Guillermo del Toro movie is set in post-war Spain?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Laberinto del Fauno",
+      "en": "Pan's Labyrinth"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Mad Max: Furia en la Carretera", "Blade Runner 2049", "Dune", "Interestelar"],
+      "en": ["Mad Max: Fury Road", "Blade Runner 2049", "Dune", "Interstellar"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por George Miller?",
+      "en": "Which movie is directed by George Miller?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mad Max: Furia en la Carretera",
+      "en": "Mad Max: Fury Road"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Modern Family"],
+      "en": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Modern Family"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como personaje principal a Leslie Knope?",
+      "en": "Which series features Leslie Knope as the main character?"
+    },
+    "respuestaCorrecta": {
+      "es": "Parks and Recreation",
+      "en": "Parks and Recreation"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Señor de los Anillos", "Harry Potter", "Las Crónicas de Narnia", "Juego de Tronos"],
+      "en": ["The Lord of the Rings", "Harry Potter", "The Chronicles of Narnia", "Game of Thrones"]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'El retorno del rey'?",
+      "en": "Which saga includes the movie 'The Return of the King'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Black Mirror", "Westworld", "Stranger Things", "The Handmaid's Tale"],
+      "en": ["Black Mirror", "Westworld", "Stranger Things", "The Handmaid's Tale"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie explora temas distópicos y de tecnología avanzada?",
+      "en": "Which series explores dystopian themes and advanced technology?"
+    },
+    "respuestaCorrecta": {
+      "es": "Black Mirror",
+      "en": "Black Mirror"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Gran Lebowski", "Fargo", "No Country for Old Men", "Burn After Reading"],
+      "en": ["The Big Lebowski", "Fargo", "No Country for Old Men", "Burn After Reading"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de los hermanos Coen tiene como protagonista a Jeff Bridges?",
+      "en": "Which Coen brothers movie features Jeff Bridges as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Gran Lebowski",
+      "en": "The Big Lebowski"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Bob Esponja", "South Park"],
+      "en": ["The Simpsons", "Family Guy", "SpongeBob SquarePants", "South Park"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a una esponja que vive en una piña bajo el mar?",
+      "en": "Which animated series features a sponge who lives in a pineapple under the sea?"
+    },
+    "respuestaCorrecta": {
+      "es": "Bob Esponja",
+      "en": "SpongeBob SquarePants"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Rey León", "Aladdín", "Frozen", "Moana"],
+      "en": ["The Lion King", "Aladdin", "Frozen", "Moana"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Disney tiene como protagonista a una joven que viaja por el océano para salvar a su pueblo?",
+      "en": "Which Disney movie features a young girl who travels across the ocean to save her people?"
+    },
+    "respuestaCorrecta": {
+      "es": "Moana",
+      "en": "Moana"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Walking Dead", "Breaking Bad", "Stranger Things", "Game of Thrones"],
+      "en": ["The Walking Dead", "Breaking Bad", "Stranger Things", "Game of Thrones"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como antagonista principal a Negan?",
+      "en": "Which series features Negan as the main antagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Walking Dead",
+      "en": "The Walking Dead"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Padrino", "Titanic", "Forrest Gump", "Pulp Fiction"],
+      "en": ["The Godfather", "Titanic", "Forrest Gump", "Pulp Fiction"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Quentin Tarantino?",
+      "en": "Which movie is directed by Quentin Tarantino?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pulp Fiction",
+      "en": "Pulp Fiction"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la familia real británica?",
+      "en": "Which series follows the life of the British royal family?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Resplandor", "Psicosis", "El Exorcista", "Halloween"],
+      "en": ["The Shining", "Psycho", "The Exorcist", "Halloween"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de terror está basada en la novela de Stephen King?",
+      "en": "Which horror movie is based on the novel by Stephen King?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Resplandor",
+      "en": "The Shining"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Joker", "Deadpool", "Venom", "Loki"],
+      "en": ["Joker", "Deadpool", "Venom", "Loki"]
+    },
+    "pregunta": {
+      "es": "¿Qué personaje de cómic es interpretado por Joaquin Phoenix en la película de 2019?",
+      "en": "Which comic book character is played by Joaquin Phoenix in the 2019 movie?"
+    },
+    "respuestaCorrecta": {
+      "es": "Joker",
+      "en": "Joker"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Rick y Morty", "South Park"],
+      "en": ["The Simpsons", "Family Guy", "Rick and Morty", "South Park"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a Homer Simpson?",
+      "en": "Which animated series features Homer Simpson as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Simpson",
+      "en": "The Simpsons"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Jurassic Park", "King Kong", "Godzilla", "Alien"],
+      "en": ["Jurassic Park", "King Kong", "Godzilla", "Alien"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Steven Spielberg y trata sobre dinosaurios?",
+      "en": "Which movie is directed by Steven Spielberg and is about dinosaurs?"
+    },
+    "respuestaCorrecta": {
+      "es": "Jurassic Park",
+      "en": "Jurassic Park"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la reina Isabel II de Inglaterra?",
+      "en": "Which series follows the life of Queen Elizabeth II of England?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Señor de los Anillos", "Harry Potter", "Star Wars", "El Hobbit"],
+      "en": ["The Lord of the Rings", "Harry Potter", "Star Wars", "The Hobbit"]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'Las dos torres'?",
+      "en": "Which saga includes the movie 'The Two Towers'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Caballero Oscuro", "V de Vendetta", "Watchmen", "Logan"],
+      "en": ["The Dark Knight", "V for Vendetta", "Watchmen", "Logan"]
+    },
+    "pregunta": {
+      "es": "¿Qué película tiene como villano al Joker interpretado por Heath Ledger?",
+      "en": "Which movie features the Joker played by Heath Ledger as the villain?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Caballero Oscuro",
+      "en": "The Dark Knight"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Stranger Things", "The Witcher", "Black Mirror", "Westworld"],
+      "en": ["Stranger Things", "The Witcher", "Black Mirror", "Westworld"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como protagonista a Eleven?",
+      "en": "Which series features Eleven as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Stranger Things",
+      "en": "Stranger Things"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Vengadores", "Guardianes de la Galaxia", "Los Increíbles", "X-Men"],
+      "en": ["The Avengers", "Guardians of the Galaxy", "The Incredibles", "X-Men"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de superhéroes tiene como protagonista a un grupo que incluye a Iron Man, Thor y Capitán América?",
+      "en": "Which superhero movie features a group that includes Iron Man, Thor, and Captain America?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Vengadores",
+      "en": "The Avengers"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"],
+      "en": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie está basada en los libros de Andrzej Sapkowski?",
+      "en": "Which series is based on the books by Andrzej Sapkowski?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Witcher",
+      "en": "The Witcher"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Laberinto del Fauno", "El Orfanato", "El Espinazo del Diablo", "Los Otros"],
+      "en": ["Pan's Labyrinth", "The Orphanage", "The Devil's Backbone", "The Others"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Guillermo del Toro está ambientada en la España de posguerra?",
+      "en": "Which Guillermo del Toro movie is set in post-war Spain?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Laberinto del Fauno",
+      "en": "Pan's Labyrinth"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Mad Max: Furia en la Carretera", "Blade Runner 2049", "Dune", "Interestelar"],
+      "en": ["Mad Max: Fury Road", "Blade Runner 2049", "Dune", "Interstellar"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por George Miller?",
+      "en": "Which movie is directed by George Miller?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mad Max: Furia en la Carretera",
+      "en": "Mad Max: Fury Road"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Modern Family"],
+      "en": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Modern Family"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como personaje principal a Leslie Knope?",
+      "en": "Which series features Leslie Knope as the main character?"
+    },
+    "respuestaCorrecta": {
+      "es": "Parks and Recreation",
+      "en": "Parks and Recreation"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Señor de los Anillos", "Harry Potter", "Las Crónicas de Narnia", "Juego de Tronos"],
+      "en": ["The Lord of the Rings", "Harry Potter", "The Chronicles of Narnia", "Game of Thrones"]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'El retorno del rey'?",
+      "en": "Which saga includes the movie 'The Return of the King'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Black Mirror", "Westworld", "Stranger Things", "The Handmaid's Tale"],
+      "en": ["Black Mirror", "Westworld", "Stranger Things", "The Handmaid's Tale"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie explora temas distópicos y de tecnología avanzada?",
+      "en": "Which series explores dystopian themes and advanced technology?"
+    },
+    "respuestaCorrecta": {
+      "es": "Black Mirror",
+      "en": "Black Mirror"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Gran Lebowski", "Fargo", "No Country for Old Men", "Burn After Reading"],
+      "en": ["The Big Lebowski", "Fargo", "No Country for Old Men", "Burn After Reading"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de los hermanos Coen tiene como protagonista a Jeff Bridges?",
+      "en": "Which Coen brothers movie features Jeff Bridges as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Gran Lebowski",
+      "en": "The Big Lebowski"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Bob Esponja", "South Park"],
+      "en": ["The Simpsons", "Family Guy", "SpongeBob SquarePants", "South Park"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a una esponja que vive en una piña bajo el mar?",
+      "en": "Which animated series features a sponge who lives in a pineapple under the sea?"
+    },
+    "respuestaCorrecta": {
+      "es": "Bob Esponja",
+      "en": "SpongeBob SquarePants"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Rey León", "Aladdín", "Frozen", "Moana"],
+      "en": ["The Lion King", "Aladdin", "Frozen", "Moana"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Disney tiene como protagonista a una joven que viaja por el océano para salvar a su pueblo?",
+      "en": "Which Disney movie features a young girl who travels across the ocean to save her people?"
+    },
+    "respuestaCorrecta": {
+      "es": "Moana",
+      "en": "Moana"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Walking Dead", "Breaking Bad", "Stranger Things", "Game of Thrones"],
+      "en": ["The Walking Dead", "Breaking Bad", "Stranger Things", "Game of Thrones"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como antagonista principal a Negan?",
+      "en": "Which series features Negan as the main antagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Walking Dead",
+      "en": "The Walking Dead"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Padrino", "Titanic", "Forrest Gump", "Pulp Fiction"],
+      "en": ["The Godfather", "Titanic", "Forrest Gump", "Pulp Fiction"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Quentin Tarantino?",
+      "en": "Which movie is directed by Quentin Tarantino?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pulp Fiction",
+      "en": "Pulp Fiction"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la familia real británica?",
+      "en": "Which series follows the life of the British royal family?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Resplandor", "Psicosis", "El Exorcista", "Halloween"],
+      "en": ["The Shining", "Psycho", "The Exorcist", "Halloween"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de terror está basada en la novela de Stephen King?",
+      "en": "Which horror movie is based on the novel by Stephen King?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Resplandor",
+      "en": "The Shining"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Joker", "Deadpool", "Venom", "Loki"],
+      "en": ["Joker", "Deadpool", "Venom", "Loki"]
+    },
+    "pregunta": {
+      "es": "¿Qué personaje de cómic es interpretado por Joaquin Phoenix en la película de 2019?",
+      "en": "Which comic book character is played by Joaquin Phoenix in the 2019 movie?"
+    },
+    "respuestaCorrecta": {
+      "es": "Joker",
+      "en": "Joker"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Rick y Morty", "South Park"],
+      "en": ["The Simpsons", "Family Guy", "Rick and Morty", "South Park"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a Homer Simpson?",
+      "en": "Which animated series features Homer Simpson as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Simpson",
+      "en": "The Simpsons"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Jurassic Park", "King Kong", "Godzilla", "Alien"],
+      "en": ["Jurassic Park", "King Kong", "Godzilla", "Alien"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Steven Spielberg y trata sobre dinosaurios?",
+      "en": "Which movie is directed by Steven Spielberg and is about dinosaurs?"
+    },
+    "respuestaCorrecta": {
+      "es": "Jurassic Park",
+      "en": "Jurassic Park"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la reina Isabel II de Inglaterra?",
+      "en": "Which series follows the life of Queen Elizabeth II of England?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Señor de los Anillos", "Harry Potter", "Star Wars", "El Hobbit"],
+      "en": ["The Lord of the Rings", "Harry Potter", "Star Wars", "The Hobbit"]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'Las dos torres'?",
+      "en": "Which saga includes the movie 'The Two Towers'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Caballero Oscuro", "V de Vendetta", "Watchmen", "Logan"],
+      "en": ["The Dark Knight", "V for Vendetta", "Watchmen", "Logan"]
+    },
+    "pregunta": {
+      "es": "¿Qué película tiene como villano al Joker interpretado por Heath Ledger?",
+      "en": "Which movie features the Joker played by Heath Ledger as the villain?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Caballero Oscuro",
+      "en": "The Dark Knight"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Stranger Things", "The Witcher", "Black Mirror", "Westworld"],
+      "en": ["Stranger Things", "The Witcher", "Black Mirror", "Westworld"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como protagonista a Eleven?",
+      "en": "Which series features Eleven as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Stranger Things",
+      "en": "Stranger Things"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Vengadores", "Guardianes de la Galaxia", "Los Increíbles", "X-Men"],
+      "en": ["The Avengers", "Guardians of the Galaxy", "The Incredibles", "X-Men"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de superhéroes tiene como protagonista a un grupo que incluye a Iron Man, Thor y Capitán América?",
+      "en": "Which superhero movie features a group that includes Iron Man, Thor, and Captain America?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Vengadores",
+      "en": "The Avengers"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"],
+      "en": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie está basada en los libros de Andrzej Sapkowski?",
+      "en": "Which series is based on the books by Andrzej Sapkowski?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Witcher",
+      "en": "The Witcher"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Laberinto del Fauno", "El Orfanato", "El Espinazo del Diablo", "Los Otros"],
+      "en": ["Pan's Labyrinth", "The Orphanage", "The Devil's Backbone", "The Others"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Guillermo del Toro está ambientada en la España de posguerra?",
+      "en": "Which Guillermo del Toro movie is set in post-war Spain?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Laberinto del Fauno",
+      "en": "Pan's Labyrinth"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Mad Max: Furia en la Carretera", "Blade Runner 2049", "Dune", "Interestelar"],
+      "en": ["Mad Max: Fury Road", "Blade Runner 2049", "Dune", "Interstellar"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por George Miller?",
+      "en": "Which movie is directed by George Miller?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mad Max: Furia en la Carretera",
+      "en": "Mad Max: Fury Road"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Modern Family"],
+      "en": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Modern Family"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como personaje principal a Leslie Knope?",
+      "en": "Which series features Leslie Knope as the main character?"
+    },
+    "respuestaCorrecta": {
+      "es": "Parks and Recreation",
+      "en": "Parks and Recreation"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Señor de los Anillos", "Harry Potter", "Las Crónicas de Narnia", "Juego de Tronos"],
+      "en": ["The Lord of the Rings", "Harry Potter", "The Chronicles of Narnia", "Game of Thrones"]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'El retorno del rey'?",
+      "en": "Which saga includes the movie 'The Return of the King'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Black Mirror", "Westworld", "Stranger Things", "The Handmaid's Tale"],
+      "en": ["Black Mirror", "Westworld", "Stranger Things", "The Handmaid's Tale"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie explora temas distópicos y de tecnología avanzada?",
+      "en": "Which series explores dystopian themes and advanced technology?"
+    },
+    "respuestaCorrecta": {
+      "es": "Black Mirror",
+      "en": "Black Mirror"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Gran Lebowski", "Fargo", "No Country for Old Men", "Burn After Reading"],
+      "en": ["The Big Lebowski", "Fargo", "No Country for Old Men", "Burn After Reading"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de los hermanos Coen tiene como protagonista a Jeff Bridges?",
+      "en": "Which Coen brothers movie features Jeff Bridges as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Gran Lebowski",
+      "en": "The Big Lebowski"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Bob Esponja", "South Park"],
+      "en": ["The Simpsons", "Family Guy", "SpongeBob SquarePants", "South Park"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a una esponja que vive en una piña bajo el mar?",
+      "en": "Which animated series features a sponge who lives in a pineapple under the sea?"
+    },
+    "respuestaCorrecta": {
+      "es": "Bob Esponja",
+      "en": "SpongeBob SquarePants"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Rey León", "Aladdín", "Frozen", "Moana"],
+      "en": ["The Lion King", "Aladdin", "Frozen", "Moana"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Disney tiene como protagonista a una joven que viaja por el océano para salvar a su pueblo?",
+      "en": "Which Disney movie features a young girl who travels across the ocean to save her people?"
+    },
+    "respuestaCorrecta": {
+      "es": "Moana",
+      "en": "Moana"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Walking Dead", "Breaking Bad", "Stranger Things", "Game of Thrones"],
+      "en": ["The Walking Dead", "Breaking Bad", "Stranger Things", "Game of Thrones"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como antagonista principal a Negan?",
+      "en": "Which series features Negan as the main antagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Walking Dead",
+      "en": "The Walking Dead"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Padrino", "Titanic", "Forrest Gump", "Pulp Fiction"],
+      "en": ["The Godfather", "Titanic", "Forrest Gump", "Pulp Fiction"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Quentin Tarantino?",
+      "en": "Which movie is directed by Quentin Tarantino?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pulp Fiction",
+      "en": "Pulp Fiction"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la familia real británica?",
+      "en": "Which series follows the life of the British royal family?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Resplandor", "Psicosis", "El Exorcista", "Halloween"],
+      "en": ["The Shining", "Psycho", "The Exorcist", "Halloween"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de terror está basada en la novela de Stephen King?",
+      "en": "Which horror movie is based on the novel by Stephen King?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Resplandor",
+      "en": "The Shining"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Joker", "Deadpool", "Venom", "Loki"],
+      "en": ["Joker", "Deadpool", "Venom", "Loki"]
+    },
+    "pregunta": {
+      "es": "¿Qué personaje de cómic es interpretado por Joaquin Phoenix en la película de 2019?",
+      "en": "Which comic book character is played by Joaquin Phoenix in the 2019 movie?"
+    },
+    "respuestaCorrecta": {
+      "es": "Joker",
+      "en": "Joker"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Rick y Morty", "South Park"],
+      "en": ["The Simpsons", "Family Guy", "Rick and Morty", "South Park"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a Homer Simpson?",
+      "en": "Which animated series features Homer Simpson as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Simpson",
+      "en": "The Simpsons"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Jurassic Park", "King Kong", "Godzilla", "Alien"],
+      "en": ["Jurassic Park", "King Kong", "Godzilla", "Alien"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Steven Spielberg y trata sobre dinosaurios?",
+      "en": "Which movie is directed by Steven Spielberg and is about dinosaurs?"
+    },
+    "respuestaCorrecta": {
+      "es": "Jurassic Park",
+      "en": "Jurassic Park"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la reina Isabel II de Inglaterra?",
+      "en": "Which series follows the life of Queen Elizabeth II of England?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Señor de los Anillos", "Harry Potter", "Star Wars", "El Hobbit"],
+      "en": ["The Lord of the Rings", "Harry Potter", "Star Wars", "The Hobbit"]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'Las dos torres'?",
+      "en": "Which saga includes the movie 'The Two Towers'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Caballero Oscuro", "V de Vendetta", "Watchmen", "Logan"],
+      "en": ["The Dark Knight", "V for Vendetta", "Watchmen", "Logan"]
+    },
+    "pregunta": {
+      "es": "¿Qué película tiene como villano al Joker interpretado por Heath Ledger?",
+      "en": "Which movie features the Joker played by Heath Ledger as the villain?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Caballero Oscuro",
+      "en": "The Dark Knight"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Stranger Things", "The Witcher", "Black Mirror", "Westworld"],
+      "en": ["Stranger Things", "The Witcher", "Black Mirror", "Westworld"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como protagonista a Eleven?",
+      "en": "Which series features Eleven as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Stranger Things",
+      "en": "Stranger Things"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Vengadores", "Guardianes de la Galaxia", "Los Increíbles", "X-Men"],
+      "en": ["The Avengers", "Guardians of the Galaxy", "The Incredibles", "X-Men"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de superhéroes tiene como protagonista a un grupo que incluye a Iron Man, Thor y Capitán América?",
+      "en": "Which superhero movie features a group that includes Iron Man, Thor, and Captain America?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Vengadores",
+      "en": "The Avengers"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"],
+      "en": ["The Witcher", "Game of Thrones", "Vikings", "Outlander"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie está basada en los libros de Andrzej Sapkowski?",
+      "en": "Which series is based on the books by Andrzej Sapkowski?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Witcher",
+      "en": "The Witcher"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Laberinto del Fauno", "El Orfanato", "El Espinazo del Diablo", "Los Otros"],
+      "en": ["Pan's Labyrinth", "The Orphanage", "The Devil's Backbone", "The Others"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Guillermo del Toro está ambientada en la España de posguerra?",
+      "en": "Which Guillermo del Toro movie is set in post-war Spain?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Laberinto del Fauno",
+      "en": "Pan's Labyrinth"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Mad Max: Furia en la Carretera", "Blade Runner 2049", "Dune", "Interestelar"],
+      "en": ["Mad Max: Fury Road", "Blade Runner 2049", "Dune", "Interstellar"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por George Miller?",
+      "en": "Which movie is directed by George Miller?"
+    },
+    "respuestaCorrecta": {
+      "es": "Mad Max: Furia en la Carretera",
+      "en": "Mad Max: Fury Road"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Modern Family"],
+      "en": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Modern Family"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como personaje principal a Leslie Knope?",
+      "en": "Which series features Leslie Knope as the main character?"
+    },
+    "respuestaCorrecta": {
+      "es": "Parks and Recreation",
+      "en": "Parks and Recreation"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Señor de los Anillos", "Harry Potter", "Las Crónicas de Narnia", "Juego de Tronos"],
+      "en": ["The Lord of the Rings", "Harry Potter", "The Chronicles of Narnia", "Game of Thrones"]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'El retorno del rey'?",
+      "en": "Which saga includes the movie 'The Return of the King'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Black Mirror", "Westworld", "Stranger Things", "The Handmaid's Tale"],
+      "en": ["Black Mirror", "Westworld", "Stranger Things", "The Handmaid's Tale"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie explora temas distópicos y de tecnología avanzada?",
+      "en": "Which series explores dystopian themes and advanced technology?"
+    },
+    "respuestaCorrecta": {
+      "es": "Black Mirror",
+      "en": "Black Mirror"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Gran Lebowski", "Fargo", "No Country for Old Men", "Burn After Reading"],
+      "en": ["The Big Lebowski", "Fargo", "No Country for Old Men", "Burn After Reading"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de los hermanos Coen tiene como protagonista a Jeff Bridges?",
+      "en": "Which Coen brothers movie features Jeff Bridges as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Gran Lebowski",
+      "en": "The Big Lebowski"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Bob Esponja", "South Park"],
+      "en": ["The Simpsons", "Family Guy", "SpongeBob SquarePants", "South Park"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a una esponja que vive en una piña bajo el mar?",
+      "en": "Which animated series features a sponge who lives in a pineapple under the sea?"
+    },
+    "respuestaCorrecta": {
+      "es": "Bob Esponja",
+      "en": "SpongeBob SquarePants"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Rey León", "Aladdín", "Frozen", "Moana"],
+      "en": ["The Lion King", "Aladdin", "Frozen", "Moana"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de Disney tiene como protagonista a una joven que viaja por el océano para salvar a su pueblo?",
+      "en": "Which Disney movie features a young girl who travels across the ocean to save her people?"
+    },
+    "respuestaCorrecta": {
+      "es": "Moana",
+      "en": "Moana"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Walking Dead", "Breaking Bad", "Stranger Things", "Game of Thrones"],
+      "en": ["The Walking Dead", "Breaking Bad", "Stranger Things", "Game of Thrones"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie tiene como antagonista principal a Negan?",
+      "en": "Which series features Negan as the main antagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Walking Dead",
+      "en": "The Walking Dead"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Padrino", "Titanic", "Forrest Gump", "Pulp Fiction"],
+      "en": ["The Godfather", "Titanic", "Forrest Gump", "Pulp Fiction"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Quentin Tarantino?",
+      "en": "Which movie is directed by Quentin Tarantino?"
+    },
+    "respuestaCorrecta": {
+      "es": "Pulp Fiction",
+      "en": "Pulp Fiction"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la familia real británica?",
+      "en": "Which series follows the life of the British royal family?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Resplandor", "Psicosis", "El Exorcista", "Halloween"],
+      "en": ["The Shining", "Psycho", "The Exorcist", "Halloween"]
+    },
+    "pregunta": {
+      "es": "¿Qué película de terror está basada en la novela de Stephen King?",
+      "en": "Which horror movie is based on the novel by Stephen King?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Resplandor",
+      "en": "The Shining"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Joker", "Deadpool", "Venom", "Loki"],
+      "en": ["Joker", "Deadpool", "Venom", "Loki"]
+    },
+    "pregunta": {
+      "es": "¿Qué personaje de cómic es interpretado por Joaquin Phoenix en la película de 2019?",
+      "en": "Which comic book character is played by Joaquin Phoenix in the 2019 movie?"
+    },
+    "respuestaCorrecta": {
+      "es": "Joker",
+      "en": "Joker"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Los Simpson", "Padre de Familia", "Rick y Morty", "South Park"],
+      "en": ["The Simpsons", "Family Guy", "Rick and Morty", "South Park"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie animada tiene como protagonista a Homer Simpson?",
+      "en": "Which animated series features Homer Simpson as the protagonist?"
+    },
+    "respuestaCorrecta": {
+      "es": "Los Simpson",
+      "en": "The Simpsons"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["Jurassic Park", "King Kong", "Godzilla", "Alien"],
+      "en": ["Jurassic Park", "King Kong", "Godzilla", "Alien"]
+    },
+    "pregunta": {
+      "es": "¿Qué película está dirigida por Steven Spielberg y trata sobre dinosaurios?",
+      "en": "Which movie is directed by Steven Spielberg and is about dinosaurs?"
+    },
+    "respuestaCorrecta": {
+      "es": "Jurassic Park",
+      "en": "Jurassic Park"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"],
+      "en": ["The Crown", "Stranger Things", "Breaking Bad", "The Mandalorian"]
+    },
+    "pregunta": {
+      "es": "¿Qué serie sigue la vida de la reina Isabel II de Inglaterra?",
+      "en": "Which series follows the life of Queen Elizabeth II of England?"
+    },
+    "respuestaCorrecta": {
+      "es": "The Crown",
+      "en": "The Crown"
+    }
+  },
+  {
+    "categoriaID": "categoria_entretenimiento",
+    "opciones": {
+      "es": ["El Señor de los Anillos", "Harry Potter", "Star Wars", "El Hobbit"],
+      "en": ["The Lord of the Rings", "Harry Potter", "Star Wars", "The Hobbit"]
+    },
+    "pregunta": {
+      "es": "¿Qué saga incluye la película 'Las dos torres'?",
+      "en": "Which saga includes the movie 'The Two Towers'?"
+    },
+    "respuestaCorrecta": {
+      "es": "El Señor de los Anillos",
+      "en": "The Lord of the Rings"
+    }
+  }
+]

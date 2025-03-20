@@ -1,0 +1,1262 @@
+[
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Los Simpson", "Padre de Familia", "Rick y Morty", "South Park"],
+        "en": ["The Simpsons", "Family Guy", "Rick and Morty", "South Park"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie animada tiene como protagonista a Homer Simpson?",
+        "en": "Which animated series features Homer Simpson as the protagonist?"
+      },
+      "respuestaCorrecta": {
+        "es": "Los Simpson",
+        "en": "The Simpsons"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Pulp Fiction", "El Padrino", "Titanic", "Avatar"],
+        "en": ["Pulp Fiction", "The Godfather", "Titanic", "Avatar"]
+      },
+      "pregunta": {
+        "es": "¿Qué película dirigida por James Cameron cuenta la historia de un barco que se hunde?",
+        "en": "Which movie directed by James Cameron tells the story of a sinking ship?"
+      },
+      "respuestaCorrecta": {
+        "es": "Titanic",
+        "en": "Titanic"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Breaking Bad", "Los Soprano", "The Wire", "Game of Thrones"],
+        "en": ["Breaking Bad", "The Sopranos", "The Wire", "Game of Thrones"]
+      },
+      "pregunta": {
+        "es": "¿En qué serie un profesor de química con cáncer comienza a fabricar metanfetamina?",
+        "en": "In which series does a chemistry teacher with cancer start manufacturing methamphetamine?"
+      },
+      "respuestaCorrecta": {
+        "es": "Breaking Bad",
+        "en": "Breaking Bad"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Harry Potter", "El Señor de los Anillos", "Crepúsculo", "Los Juegos del Hambre"],
+        "en": ["Harry Potter", "The Lord of the Rings", "Twilight", "The Hunger Games"]
+      },
+      "pregunta": {
+        "es": "¿Qué saga literaria adaptada al cine trata sobre un joven mago que asiste a Hogwarts?",
+        "en": "Which literary saga adapted to film is about a young wizard who attends Hogwarts?"
+      },
+      "respuestaCorrecta": {
+        "es": "Harry Potter",
+        "en": "Harry Potter"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Stranger Things", "Dark", "Black Mirror", "The OA"],
+        "en": ["Stranger Things", "Dark", "Black Mirror", "The OA"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie de Netflix trata sobre un grupo de niños que se enfrentan a criaturas de otra dimensión en los años 80?",
+        "en": "Which Netflix series is about a group of children facing creatures from another dimension in the 1980s?"
+      },
+      "respuestaCorrecta": {
+        "es": "Stranger Things",
+        "en": "Stranger Things"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Leonardo DiCaprio", "Brad Pitt", "Tom Cruise", "Robert Downey Jr."],
+        "en": ["Leonardo DiCaprio", "Brad Pitt", "Tom Cruise", "Robert Downey Jr."]
+      },
+      "pregunta": {
+        "es": "¿Qué actor interpretó a Jack en la película Titanic?",
+        "en": "Which actor played Jack in the movie Titanic?"
+      },
+      "respuestaCorrecta": {
+        "es": "Leonardo DiCaprio",
+        "en": "Leonardo DiCaprio"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Friends", "How I Met Your Mother", "The Big Bang Theory", "Modern Family"],
+        "en": ["Friends", "How I Met Your Mother", "The Big Bang Theory", "Modern Family"]
+      },
+      "pregunta": {
+        "es": "¿Qué sitcom tiene como personajes principales a Ross, Rachel, Monica, Chandler, Joey y Phoebe?",
+        "en": "Which sitcom features Ross, Rachel, Monica, Chandler, Joey and Phoebe as main characters?"
+      },
+      "respuestaCorrecta": {
+        "es": "Friends",
+        "en": "Friends"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Star Wars", "Star Trek", "Battlestar Galactica", "Dune"],
+        "en": ["Star Wars", "Star Trek", "Battlestar Galactica", "Dune"]
+      },
+      "pregunta": {
+        "es": "¿Qué franquicia de ciencia ficción incluye personajes como Luke Skywalker y Darth Vader?",
+        "en": "Which science fiction franchise includes characters like Luke Skywalker and Darth Vader?"
+      },
+      "respuestaCorrecta": {
+        "es": "Star Wars",
+        "en": "Star Wars"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Community"],
+        "en": ["The Office", "Parks and Recreation", "Brooklyn Nine-Nine", "Community"]
+      },
+      "pregunta": {
+        "es": "¿Qué comedia de situación se desarrolla en una empresa papelera llamada Dunder Mifflin?",
+        "en": "Which sitcom takes place at a paper company called Dunder Mifflin?"
+      },
+      "respuestaCorrecta": {
+        "es": "The Office",
+        "en": "The Office"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Marvel", "DC Comics", "Image Comics", "Dark Horse"],
+        "en": ["Marvel", "DC Comics", "Image Comics", "Dark Horse"]
+      },
+      "pregunta": {
+        "es": "¿A qué universo de cómics pertenecen Superman, Batman y Wonder Woman?",
+        "en": "To which comic universe do Superman, Batman and Wonder Woman belong?"
+      },
+      "respuestaCorrecta": {
+        "es": "DC Comics",
+        "en": "DC Comics"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Steven Spielberg", "Christopher Nolan", "Martin Scorsese", "Quentin Tarantino"],
+        "en": ["Steven Spielberg", "Christopher Nolan", "Martin Scorsese", "Quentin Tarantino"]
+      },
+      "pregunta": {
+        "es": "¿Qué director es conocido por películas como Pulp Fiction y Kill Bill?",
+        "en": "Which director is known for movies like Pulp Fiction and Kill Bill?"
+      },
+      "respuestaCorrecta": {
+        "es": "Quentin Tarantino",
+        "en": "Quentin Tarantino"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["The Crown", "Bridgerton", "Downton Abbey", "Outlander"],
+        "en": ["The Crown", "Bridgerton", "Downton Abbey", "Outlander"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie de época narra la vida de la reina Isabel II de Inglaterra?",
+        "en": "Which period drama chronicles the life of Queen Elizabeth II of England?"
+      },
+      "respuestaCorrecta": {
+        "es": "The Crown",
+        "en": "The Crown"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["El Señor de los Anillos", "Harry Potter", "Las Crónicas de Narnia", "Juego de Tronos"],
+        "en": ["The Lord of the Rings", "Harry Potter", "The Chronicles of Narnia", "Game of Thrones"]
+      },
+      "pregunta": {
+        "es": "¿Qué saga de fantasía fue escrita por J.R.R. Tolkien?",
+        "en": "Which fantasy saga was written by J.R.R. Tolkien?"
+      },
+      "respuestaCorrecta": {
+        "es": "El Señor de los Anillos",
+        "en": "The Lord of the Rings"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["The Mandalorian", "WandaVision", "The Boys", "Loki"],
+        "en": ["The Mandalorian", "WandaVision", "The Boys", "Loki"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie de Disney+ está ambientada en el universo de Star Wars y presenta a un cazarrecompensas que protege a 'Baby Yoda'?",
+        "en": "Which Disney+ series is set in the Star Wars universe and features a bounty hunter protecting 'Baby Yoda'?"
+      },
+      "respuestaCorrecta": {
+        "es": "The Mandalorian",
+        "en": "The Mandalorian"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Jennifer Lawrence", "Emma Stone", "Scarlett Johansson", "Anne Hathaway"],
+        "en": ["Jennifer Lawrence", "Emma Stone", "Scarlett Johansson", "Anne Hathaway"]
+      },
+      "pregunta": {
+        "es": "¿Qué actriz protagonizó la saga 'Los Juegos del Hambre' como Katniss Everdeen?",
+        "en": "Which actress starred in 'The Hunger Games' saga as Katniss Everdeen?"
+      },
+      "respuestaCorrecta": {
+        "es": "Jennifer Lawrence",
+        "en": "Jennifer Lawrence"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Westworld", "Black Mirror", "Altered Carbon", "The Expanse"],
+        "en": ["Westworld", "Black Mirror", "Altered Carbon", "The Expanse"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie distópica de Netflix presenta un episodio diferente en cada capítulo?",
+        "en": "Which dystopian Netflix series features a different episode in each chapter?"
+      },
+      "respuestaCorrecta": {
+        "es": "Black Mirror",
+        "en": "Black Mirror"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["El Sexto Sentido", "El Resplandor", "El Exorcista", "Poltergeist"],
+        "en": ["The Sixth Sense", "The Shining", "The Exorcist", "Poltergeist"]
+      },
+      "pregunta": {
+        "es": "¿En qué película de terror el protagonista dice la frase 'En ocasiones veo muertos'?",
+        "en": "In which horror movie does the protagonist say the line 'I see dead people'?"
+      },
+      "respuestaCorrecta": {
+        "es": "El Sexto Sentido",
+        "en": "The Sixth Sense"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Juego de Tronos", "Vikings", "The Last Kingdom", "Outlander"],
+        "en": ["Game of Thrones", "Vikings", "The Last Kingdom", "Outlander"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie basada en los libros de George R.R. Martin culminó en 2019?",
+        "en": "Which series based on George R.R. Martin's books concluded in 2019?"
+      },
+      "respuestaCorrecta": {
+        "es": "Juego de Tronos",
+        "en": "Game of Thrones"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Robert Downey Jr.", "Chris Hemsworth", "Chris Evans", "Mark Ruffalo"],
+        "en": ["Robert Downey Jr.", "Chris Hemsworth", "Chris Evans", "Mark Ruffalo"]
+      },
+      "pregunta": {
+        "es": "¿Qué actor interpreta a Iron Man en el Universo Cinematográfico de Marvel?",
+        "en": "Which actor plays Iron Man in the Marvel Cinematic Universe?"
+      },
+      "respuestaCorrecta": {
+        "es": "Robert Downey Jr.",
+        "en": "Robert Downey Jr."
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["The Walking Dead", "Fear the Walking Dead", "Z Nation", "Kingdom"],
+        "en": ["The Walking Dead", "Fear the Walking Dead", "Z Nation", "Kingdom"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie postapocalíptica tiene como personaje principal a Rick Grimes?",
+        "en": "Which post-apocalyptic series features Rick Grimes as the main character?"
+      },
+      "respuestaCorrecta": {
+        "es": "The Walking Dead",
+        "en": "The Walking Dead"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Pixar", "DreamWorks", "Illumination", "Blue Sky"],
+        "en": ["Pixar", "DreamWorks", "Illumination", "Blue Sky"]
+      },
+      "pregunta": {
+        "es": "¿Qué estudio de animación creó películas como 'Toy Story' y 'Up'?",
+        "en": "Which animation studio created movies like 'Toy Story' and 'Up'?"
+      },
+      "respuestaCorrecta": {
+        "es": "Pixar",
+        "en": "Pixar"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["La Casa de Papel", "Élite", "Narcos", "Dark"],
+        "en": ["Money Heist", "Elite", "Narcos", "Dark"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie española se centra en un grupo que asalta la Fábrica Nacional de Moneda y Timbre?",
+        "en": "Which Spanish series focuses on a group that raids the Royal Mint of Spain?"
+      },
+      "respuestaCorrecta": {
+        "es": "La Casa de Papel",
+        "en": "Money Heist"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Nolan", "Kubrick", "Hitchcock", "Spielberg"],
+        "en": ["Nolan", "Kubrick", "Hitchcock", "Spielberg"]
+      },
+      "pregunta": {
+        "es": "¿Qué famoso director es conocido por películas como 'Psicosis' y 'Los Pájaros'?",
+        "en": "Which famous director is known for movies like 'Psycho' and 'The Birds'?"
+      },
+      "respuestaCorrecta": {
+        "es": "Hitchcock",
+        "en": "Hitchcock"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Seinfeld", "Cheers", "Friends", "Frasier"],
+        "en": ["Seinfeld", "Cheers", "Friends", "Frasier"]
+      },
+      "pregunta": {
+        "es": "¿Qué sitcom de los 90 es conocida como 'la serie sobre nada'?",
+        "en": "Which 90s sitcom is known as 'the show about nothing'?"
+      },
+      "respuestaCorrecta": {
+        "es": "Seinfeld",
+        "en": "Seinfeld"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["The Wizard of Oz", "Gone with the Wind", "Casablanca", "Citizen Kane"],
+        "en": ["The Wizard of Oz", "Gone with the Wind", "Casablanca", "Citizen Kane"]
+      },
+      "pregunta": {
+        "es": "¿Qué película clásica contiene la famosa frase 'Francamente, querida, me importa un bledo'?",
+        "en": "Which classic film contains the famous line 'Frankly, my dear, I don't give a damn'?"
+      },
+      "respuestaCorrecta": {
+        "es": "Gone with the Wind",
+        "en": "Gone with the Wind"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Squid Game", "Parasite", "Train to Busan", "Oldboy"],
+        "en": ["Squid Game", "Parasite", "Train to Busan", "Oldboy"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie coreana de Netflix trata sobre personas endeudadas que compiten en juegos mortales?",
+        "en": "Which Korean Netflix series is about indebted people competing in deadly games?"
+      },
+      "respuestaCorrecta": {
+        "es": "Squid Game",
+        "en": "Squid Game"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Meryl Streep", "Julia Roberts", "Sandra Bullock", "Nicole Kidman"],
+        "en": ["Meryl Streep", "Julia Roberts", "Sandra Bullock", "Nicole Kidman"]
+      },
+      "pregunta": {
+        "es": "¿Qué actriz tiene el récord de más nominaciones a los Premios Oscar?",
+        "en": "Which actress holds the record for most Oscar nominations?"
+      },
+      "respuestaCorrecta": {
+        "es": "Meryl Streep",
+        "en": "Meryl Streep"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["The Wire", "Breaking Bad", "The Sopranos", "Mad Men"],
+        "en": ["The Wire", "Breaking Bad", "The Sopranos", "Mad Men"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie de HBO ambientada en Baltimore examina el tráfico de drogas y las instituciones de la ciudad?",
+        "en": "Which HBO series set in Baltimore examines the drug trade and city institutions?"
+      },
+      "respuestaCorrecta": {
+        "es": "The Wire",
+        "en": "The Wire"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Matrix", "Avatar", "Inception", "Interstellar"],
+        "en": ["The Matrix", "Avatar", "Inception", "Interstellar"]
+      },
+      "pregunta": {
+        "es": "¿En qué película de ciencia ficción el protagonista debe elegir entre una píldora roja y una azul?",
+        "en": "In which science fiction movie must the protagonist choose between a red pill and a blue pill?"
+      },
+      "respuestaCorrecta": {
+        "es": "Matrix",
+        "en": "The Matrix"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["The Crown", "Downton Abbey", "Bridgerton", "Peaky Blinders"],
+        "en": ["The Crown", "Downton Abbey", "Bridgerton", "Peaky Blinders"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie británica se centra en una familia de gangsters en Birmingham después de la Primera Guerra Mundial?",
+        "en": "Which British series focuses on a gangster family in Birmingham after World War I?"
+      },
+      "respuestaCorrecta": {
+        "es": "Peaky Blinders",
+        "en": "Peaky Blinders"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Grey's Anatomy", "House", "ER", "Scrubs"],
+        "en": ["Grey's Anatomy", "House", "ER", "Scrubs"]
+      },
+      "pregunta": {
+        "es": "¿Qué drama médico tiene como protagonista a Meredith Grey?",
+        "en": "Which medical drama features Meredith Grey as the protagonist?"
+      },
+      "respuestaCorrecta": {
+        "es": "Grey's Anatomy",
+        "en": "Grey's Anatomy"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["John Williams", "Hans Zimmer", "Ennio Morricone", "Danny Elfman"],
+        "en": ["John Williams", "Hans Zimmer", "Ennio Morricone", "Danny Elfman"]
+      },
+      "pregunta": {
+        "es": "¿Qué compositor creó la banda sonora de 'Star Wars' y 'Jurassic Park'?",
+        "en": "Which composer created the soundtrack for 'Star Wars' and 'Jurassic Park'?"
+      },
+      "respuestaCorrecta": {
+        "es": "John Williams",
+        "en": "John Williams"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Titanic", "Avatar", "Avengers: Endgame", "Star Wars: El despertar de la fuerza"],
+        "en": ["Titanic", "Avatar", "Avengers: Endgame", "Star Wars: The Force Awakens"]
+      },
+      "pregunta": {
+        "es": "¿Qué película de James Cameron fue la más taquillera de todos los tiempos hasta que fue superada por 'Avengers: Endgame'?",
+        "en": "Which James Cameron film was the highest-grossing of all time until surpassed by 'Avengers: Endgame'?"
+      },
+      "respuestaCorrecta": {
+        "es": "Avatar",
+        "en": "Avatar"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Succession", "Billions", "Industry", "Suits"],
+        "en": ["Succession", "Billions", "Industry", "Suits"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie de HBO sigue las luchas de poder en la familia Roy, dueños de un conglomerado de medios?",
+        "en": "Which HBO series follows power struggles in the Roy family, owners of a media conglomerate?"
+      },
+      "respuestaCorrecta": {
+        "es": "Succession",
+        "en": "Succession"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Adele", "Beyoncé", "Taylor Swift", "Lady Gaga"],
+        "en": ["Adele", "Beyoncé", "Taylor Swift", "Lady Gaga"]
+      },
+      "pregunta": {
+        "es": "¿Qué cantante interpretó la canción principal de la película de James Bond 'Skyfall'?",
+        "en": "Which singer performed the main song for the James Bond film 'Skyfall'?"
+      },
+      "respuestaCorrecta": {
+        "es": "Adele",
+        "en": "Adele"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Los Vengadores", "Los Guardianes de la Galaxia", "Los X-Men", "Los 4 Fantásticos"],
+        "en": ["The Avengers", "Guardians of the Galaxy", "X-Men", "Fantastic Four"]
+      },
+      "pregunta": {
+        "es": "¿Qué equipo de superhéroes incluye a personajes como Star-Lord, Rocket y Groot?",
+        "en": "Which superhero team includes characters like Star-Lord, Rocket and Groot?"
+      },
+      "respuestaCorrecta": {
+        "es": "Los Guardianes de la Galaxia",
+        "en": "Guardians of the Galaxy"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Killing Eve", "Fleabag", "I May Destroy You", "Normal People"],
+        "en": ["Killing Eve", "Fleabag", "I May Destroy You", "Normal People"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie británica creada por Phoebe Waller-Bridge trata sobre una mujer soltera que rompe la cuarta pared?",
+        "en": "Which British series created by Phoebe Waller-Bridge is about a single woman who breaks the fourth wall?"
+      },
+      "respuestaCorrecta": {
+        "es": "Fleabag",
+        "en": "Fleabag"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Hayao Miyazaki", "Makoto Shinkai", "Mamoru Hosoda", "Satoshi Kon"],
+        "en": ["Hayao Miyazaki", "Makoto Shinkai", "Mamoru Hosoda", "Satoshi Kon"]
+      },
+      "pregunta": {
+        "es": "¿Qué director de animación japonesa fundó el Studio Ghibli?",
+        "en": "Which Japanese animation director founded Studio Ghibli?"
+      },
+      "respuestaCorrecta": {
+        "es": "Hayao Miyazaki",
+        "en": "Hayao Miyazaki"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Better Call Saul", "El Camino", "Breaking Bad", "Ozark"],
+        "en": ["Better Call Saul", "El Camino", "Breaking Bad", "Ozark"]
+      },
+      "pregunta": {
+        "es": "¿Qué serie es un spin-off precuela de 'Breaking Bad' centrada en el abogado Jimmy McGill?",
+        "en": "Which series is a prequel spin-off of 'Breaking Bad' centered on lawyer Jimmy McGill?"
+      },
+      "respuestaCorrecta": {
+        "es": "Better Call Saul",
+        "en": "Better Call Saul"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["E.T.", "Close Encounters of the Third Kind", "Jurassic Park", "Jaws"],
+        "en": ["E.T.", "Close Encounters of the Third Kind", "Jurassic Park", "Jaws"]
+      },
+      "pregunta": {
+        "es": "¿Qué película de Spielberg trata sobre un amistoso extraterrestre varado en la Tierra?",
+        "en": "Which Spielberg film is about a friendly alien stranded on Earth?"
+      },
+      "respuestaCorrecta": {
+        "es": "E.T.",
+        "en": "E.T."
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Emmy", "Oscar", "Grammy", "Tony"],
+        "en": ["Emmy", "Oscar", "Grammy", "Tony"]
+      },
+      "pregunta": {
+        "es": "¿Qué premio se otorga a la excelencia en la televisión?",
+        "en": "Which award is given for excellence in television?"
+      },
+      "respuestaCorrecta": {
+        "es": "Emmy",
+        "en": "Emmy"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["The Good Place", "Parks and Recreation", "Brooklyn Nine-Nine", "Superstore"],
+        "en": ["The Good Place", "Parks and Recreation", "Brooklyn Nine-Nine", "Superstore"]
+      },
+      "pregunta": {
+        "es": "¿Qué comedia de NBC creada por Michael Schur está ambientada en el más allá?",
+        "en": "Which NBC comedy created by Michael Schur is set in the afterlife?"
+      },
+      "respuestaCorrecta": {
+        "es": "The Good Place",
+        "en": "The Good Place"
+      }
+    },
+    {
+      "categoriaID": "categoria_entretenimiento",
+      "opciones": {
+        "es": ["Blade Runner", "Alien", "Terminator", "Depredador"],
+        "en": ["Blade Runner", "Alien", "Terminator", "Predator"]
+      },
+      "pregunta": {
+        "es": "¿Qué película de ciencia ficción dirigida por Ridley Scott trata sobre replicantes?",
+        "en": "Which science fiction film directed by Ridley Scott is about replicants?"
+      },
+      "respuestaCorrecta": {
+        "es": "Blade Runner",
+        "en": "Blade Runner"
+      }
+    },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Queen", "The Beatles", "Led Zeppelin", "Pink Floyd"],
+            "en": ["Queen", "The Beatles", "Led Zeppelin", "Pink Floyd"]
+          },
+          "pregunta": {
+            "es": "¿Qué banda musical británica tenía como vocalista a Freddie Mercury?",
+            "en": "Which British musical band had Freddie Mercury as its lead vocalist?"
+          },
+          "respuestaCorrecta": {
+            "es": "Queen",
+            "en": "Queen"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Dune", "Foundation", "Hyperion", "Neuromancer"],
+            "en": ["Dune", "Foundation", "Hyperion", "Neuromancer"]
+          },
+          "pregunta": {
+            "es": "¿Qué novela de ciencia ficción de Frank Herbert fue adaptada al cine por Denis Villeneuve?",
+            "en": "Which science fiction novel by Frank Herbert was adapted to film by Denis Villeneuve?"
+          },
+          "respuestaCorrecta": {
+            "es": "Dune",
+            "en": "Dune"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["The Last of Us", "Uncharted", "God of War", "Horizon Zero Dawn"],
+            "en": ["The Last of Us", "Uncharted", "God of War", "Horizon Zero Dawn"]
+          },
+          "pregunta": {
+            "es": "¿Qué videojuego de PlayStation fue adaptado como serie de HBO con Pedro Pascal y Bella Ramsey?",
+            "en": "Which PlayStation video game was adapted as an HBO series starring Pedro Pascal and Bella Ramsey?"
+          },
+          "respuestaCorrecta": {
+            "es": "The Last of Us",
+            "en": "The Last of Us"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Kubrick", "Coppola", "Scorsese", "Tarantino"],
+            "en": ["Kubrick", "Coppola", "Scorsese", "Tarantino"]
+          },
+          "pregunta": {
+            "es": "¿Qué director filmó 'El resplandor' y '2001: Odisea en el espacio'?",
+            "en": "Which director filmed 'The Shining' and '2001: A Space Odyssey'?"
+          },
+          "respuestaCorrecta": {
+            "es": "Kubrick",
+            "en": "Kubrick"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Arcane", "Castlevania", "Cyberpunk: Edgerunners", "Love, Death & Robots"],
+            "en": ["Arcane", "Castlevania", "Cyberpunk: Edgerunners", "Love, Death & Robots"]
+          },
+          "pregunta": {
+            "es": "¿Qué serie animada de Netflix está basada en el universo de League of Legends?",
+            "en": "Which Netflix animated series is based on the League of Legends universe?"
+          },
+          "respuestaCorrecta": {
+            "es": "Arcane",
+            "en": "Arcane"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Barbie", "Oppenheimer", "Napoleón", "Wonka"],
+            "en": ["Barbie", "Oppenheimer", "Napoleon", "Wonka"]
+          },
+          "pregunta": {
+            "es": "¿Qué película de 2023 dirigida por Greta Gerwig protagonizó Margot Robbie?",
+            "en": "Which 2023 film directed by Greta Gerwig starred Margot Robbie?"
+          },
+          "respuestaCorrecta": {
+            "es": "Barbie",
+            "en": "Barbie"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Yellowstone", "Ted Lasso", "The Bear", "Reservation Dogs"],
+            "en": ["Yellowstone", "Ted Lasso", "The Bear", "Reservation Dogs"]
+          },
+          "pregunta": {
+            "es": "¿Qué serie sobre un chef que regresa a Chicago para administrar el restaurante de su hermano fallecido ganó múltiples Emmys?",
+            "en": "Which series about a chef returning to Chicago to run his deceased brother's restaurant won multiple Emmys?"
+          },
+          "respuestaCorrecta": {
+            "es": "The Bear",
+            "en": "The Bear"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["El Padrino", "Goodfellas", "Casino", "Scarface"],
+            "en": ["The Godfather", "Goodfellas", "Casino", "Scarface"]
+          },
+          "pregunta": {
+            "es": "¿Qué película de mafia dirigida por Francis Ford Coppola está considerada una de las mejores de todos los tiempos?",
+            "en": "Which mafia film directed by Francis Ford Coppola is considered one of the best of all time?"
+          },
+          "respuestaCorrecta": {
+            "es": "El Padrino",
+            "en": "The Godfather"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["House of the Dragon", "The Rings of Power", "Andor", "The Witcher"],
+            "en": ["House of the Dragon", "The Rings of Power", "Andor", "The Witcher"]
+          },
+          "pregunta": {
+            "es": "¿Qué precuela de 'Juego de Tronos' narra la historia de la Casa Targaryen?",
+            "en": "Which 'Game of Thrones' prequel narrates the history of House Targaryen?"
+          },
+          "respuestaCorrecta": {
+            "es": "House of the Dragon",
+            "en": "House of the Dragon"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Coco", "Encanto", "Soul", "Turning Red"],
+            "en": ["Coco", "Encanto", "Soul", "Turning Red"]
+          },
+          "pregunta": {
+            "es": "¿Qué película de Pixar está ambientada en México durante el Día de los Muertos?",
+            "en": "Which Pixar film is set in Mexico during the Day of the Dead?"
+          },
+          "respuestaCorrecta": {
+            "es": "Coco",
+            "en": "Coco"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Only Murders in the Building", "Big Little Lies", "Mare of Easttown", "True Detective"],
+            "en": ["Only Murders in the Building", "Big Little Lies", "Mare of Easttown", "True Detective"]
+          },
+          "pregunta": {
+            "es": "¿Qué serie de comedia/misterio tiene como protagonistas a Steve Martin, Martin Short y Selena Gomez?",
+            "en": "Which comedy/mystery series stars Steve Martin, Martin Short and Selena Gomez?"
+          },
+          "respuestaCorrecta": {
+            "es": "Only Murders in the Building",
+            "en": "Only Murders in the Building"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Gladiator", "Braveheart", "Troya", "300"],
+            "en": ["Gladiator", "Braveheart", "Troy", "300"]
+          },
+          "pregunta": {
+            "es": "¿Qué película histórica protagonizada por Russell Crowe incluye la famosa frase 'Lo que hacemos en la vida, tiene eco en la eternidad'?",
+            "en": "Which historical film starring Russell Crowe includes the famous phrase 'What we do in life echoes in eternity'?"
+          },
+          "respuestaCorrecta": {
+            "es": "Gladiator",
+            "en": "Gladiator"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Carrie", "It", "The Shining", "Misery"],
+            "en": ["Carrie", "It", "The Shining", "Misery"]
+          },
+          "pregunta": {
+            "es": "¿Qué novela de Stephen King trata sobre un payaso asesino llamado Pennywise?",
+            "en": "Which Stephen King novel is about a killer clown named Pennywise?"
+          },
+          "respuestaCorrecta": {
+            "es": "It",
+            "en": "It"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Schitt's Creek", "30 Rock", "Arrested Development", "Veep"],
+            "en": ["Schitt's Creek", "30 Rock", "Arrested Development", "Veep"]
+          },
+          "pregunta": {
+            "es": "¿Qué comedia canadiense trata sobre una familia adinerada que pierde su fortuna y debe mudarse a un pequeño pueblo rural?",
+            "en": "Which Canadian comedy is about a wealthy family that loses their fortune and must move to a small rural town?"
+          },
+          "respuestaCorrecta": {
+            "es": "Schitt's Creek",
+            "en": "Schitt's Creek"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Deadpool", "Logan", "Joker", "Watchmen"],
+            "en": ["Deadpool", "Logan", "Joker", "Watchmen"]
+          },
+          "pregunta": {
+            "es": "¿Qué película de superhéroes con clasificación R tiene como protagonista a un mercenario bocazas con factor de curación?",
+            "en": "Which R-rated superhero film features a wise-cracking mercenary with a healing factor?"
+          },
+          "respuestaCorrecta": {
+            "es": "Deadpool",
+            "en": "Deadpool"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Euphoria", "13 Reasons Why", "Sex Education", "Gossip Girl"],
+            "en": ["Euphoria", "13 Reasons Why", "Sex Education", "Gossip Girl"]
+          },
+          "pregunta": {
+            "es": "¿Qué controvertida serie de HBO protagonizada por Zendaya explora temas de adicción entre adolescentes?",
+            "en": "Which controversial HBO series starring Zendaya explores themes of addiction among teenagers?"
+          },
+          "respuestaCorrecta": {
+            "es": "Euphoria",
+            "en": "Euphoria"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Spirited Away", "Your Name", "Princess Mononoke", "Grave of the Fireflies"],
+            "en": ["Spirited Away", "Your Name", "Princess Mononoke", "Grave of the Fireflies"]
+          },
+          "pregunta": {
+            "es": "¿Qué película de animación japonesa ganó el Oscar a Mejor Película Animada en 2003?",
+            "en": "Which Japanese animated film won the Oscar for Best Animated Feature in 2003?"
+          },
+          "respuestaCorrecta": {
+            "es": "Spirited Away",
+            "en": "Spirited Away"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["The Leftovers", "Lost", "Watchmen", "Station Eleven"],
+            "en": ["The Leftovers", "Lost", "Watchmen", "Station Eleven"]
+          },
+          "pregunta": {
+            "es": "¿Qué serie de HBO creada por Damon Lindelof trata sobre la desaparición repentina del 2% de la población mundial?",
+            "en": "Which HBO series created by Damon Lindelof is about the sudden disappearance of 2% of the world's population?"
+          },
+          "respuestaCorrecta": {
+            "es": "The Leftovers",
+            "en": "The Leftovers"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["La La Land", "Moulin Rouge", "Chicago", "Les Misérables"],
+            "en": ["La La Land", "Moulin Rouge", "Chicago", "Les Misérables"]
+          },
+          "pregunta": {
+            "es": "¿Qué musical moderno protagonizado por Ryan Gosling y Emma Stone casi gana el Oscar a Mejor Película?",
+            "en": "Which modern musical starring Ryan Gosling and Emma Stone almost won the Oscar for Best Picture?"
+          },
+          "respuestaCorrecta": {
+            "es": "La La Land",
+            "en": "La La Land"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Parasite", "Drive My Car", "Crouching Tiger, Hidden Dragon", "Life is Beautiful"],
+            "en": ["Parasite", "Drive My Car", "Crouching Tiger, Hidden Dragon", "Life is Beautiful"]
+          },
+          "pregunta": {
+            "es": "¿Qué película coreana dirigida por Bong Joon-ho fue la primera película extranjera en ganar el Oscar a Mejor Película?",
+            "en": "Which Korean film directed by Bong Joon-ho was the first foreign film to win the Oscar for Best Picture?"
+          },
+          "respuestaCorrecta": {
+            "es": "Parasite",
+            "en": "Parasite"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Chernobyl", "Band of Brothers", "The Pacific", "Generation Kill"],
+            "en": ["Chernobyl", "Band of Brothers", "The Pacific", "Generation Kill"]
+          },
+          "pregunta": {
+            "es": "¿Qué miniserie de HBO narra el desastre nuclear soviético de 1986?",
+            "en": "Which HBO miniseries narrates the 1986 Soviet nuclear disaster?"
+          },
+          "respuestaCorrecta": {
+            "es": "Chernobyl",
+            "en": "Chernobyl"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Deadpool & Wolverine", "Avengers: Infinity War", "Barbie", "Joker"],
+            "en": ["Deadpool & Wolverine", "Avengers: Infinity War", "Barbie", "Joker"]
+          },
+          "pregunta": {
+            "es": "¿Qué película de 2024 reunió a Hugh Jackman y Ryan Reynolds como superhéroes de Marvel?",
+            "en": "Which 2024 film brought together Hugh Jackman and Ryan Reynolds as Marvel superheroes?"
+          },
+          "respuestaCorrecta": {
+            "es": "Deadpool & Wolverine",
+            "en": "Deadpool & Wolverine"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Fallout", "Mass Effect", "Halo", "The Witcher"],
+            "en": ["Fallout", "Mass Effect", "Halo", "The Witcher"]
+          },
+          "pregunta": {
+            "es": "¿Qué adaptación de videojuego post-apocalíptico de Amazon Prime está ambientada en un mundo devastado por la guerra nuclear?",
+            "en": "Which post-apocalyptic video game adaptation on Amazon Prime is set in a world devastated by nuclear war?"
+          },
+          "respuestaCorrecta": {
+            "es": "Fallout",
+            "en": "Fallout"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Inception", "Tenet", "Interstellar", "The Prestige"],
+            "en": ["Inception", "Tenet", "Interstellar", "The Prestige"]
+          },
+          "pregunta": {
+            "es": "¿Qué película de Christopher Nolan trata sobre ladrones que roban secretos entrando en los sueños de las personas?",
+            "en": "Which Christopher Nolan film is about thieves who steal secrets by entering people's dreams?"
+          },
+          "respuestaCorrecta": {
+            "es": "Inception",
+            "en": "Inception"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["The Boys", "Invincible", "Watchmen", "Jupiter's Legacy"],
+            "en": ["The Boys", "Invincible", "Watchmen", "Jupiter's Legacy"]
+          },
+          "pregunta": {
+            "es": "¿Qué serie de Amazon Prime presenta superhéroes corruptos controlados por una corporación llamada Vought?",
+            "en": "Which Amazon Prime series features corrupt superheroes controlled by a corporation called Vought?"
+          },
+          "respuestaCorrecta": {
+            "es": "The Boys",
+            "en": "The Boys"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Wes Anderson", "Tim Burton", "Guillermo del Toro", "David Lynch"],
+            "en": ["Wes Anderson", "Tim Burton", "Guillermo del Toro", "David Lynch"]
+          },
+          "pregunta": {
+            "es": "¿Qué director es conocido por su estética simétrica, colores pastel y estilo visual distintivo en películas como 'Grand Budapest Hotel'?",
+            "en": "Which director is known for his symmetrical aesthetics, pastel colors and distinctive visual style in films like 'The Grand Budapest Hotel'?"
+          },
+          "respuestaCorrecta": {
+            "es": "Wes Anderson",
+            "en": "Wes Anderson"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Phineas y Ferb", "Gravity Falls", "Steven Universe", "Over the Garden Wall"],
+            "en": ["Phineas and Ferb", "Gravity Falls", "Steven Universe", "Over the Garden Wall"]
+          },
+          "pregunta": {
+            "es": "¿Qué serie animada trata sobre dos hermanos que crean inventos increíbles durante sus vacaciones de verano?",
+            "en": "Which animated series is about two brothers who create incredible inventions during their summer vacation?"
+          },
+          "respuestaCorrecta": {
+            "es": "Phineas y Ferb",
+            "en": "Phineas and Ferb"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["The Shawshank Redemption", "The Green Mile", "Misery", "Stand by Me"],
+            "en": ["The Shawshank Redemption", "The Green Mile", "Misery", "Stand by Me"]
+          },
+          "pregunta": {
+            "es": "¿Qué película basada en una historia de Stephen King está ambientada en una prisión y es considerada una de las mejores películas de todos los tiempos?",
+            "en": "Which film based on a Stephen King story is set in a prison and is considered one of the best films of all time?"
+          },
+          "respuestaCorrecta": {
+            "es": "The Shawshank Redemption",
+            "en": "The Shawshank Redemption"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Mindhunter", "True Detective", "Broadchurch", "Sharp Objects"],
+            "en": ["Mindhunter", "True Detective", "Broadchurch", "Sharp Objects"]
+          },
+          "pregunta": {
+            "es": "¿Qué serie de Netflix sobre el FBI en los años 70 explora los inicios de la psicología criminal y entrevistas con asesinos en serie?",
+            "en": "Which Netflix series about the FBI in the 1970s explores the beginnings of criminal psychology and interviews with serial killers?"
+          },
+          "respuestaCorrecta": {
+            "es": "Mindhunter",
+            "en": "Mindhunter"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Oppenheimer", "Dunkirk", "1917", "The Imitation Game"],
+            "en": ["Oppenheimer", "Dunkirk", "1917", "The Imitation Game"]
+          },
+          "pregunta": {
+            "es": "¿Qué película de 2023 dirigida por Christopher Nolan narra la historia del creador de la bomba atómica?",
+            "en": "Which 2023 film directed by Christopher Nolan tells the story of the creator of the atomic bomb?"
+          },
+          "respuestaCorrecta": {
+            "es": "Oppenheimer",
+            "en": "Oppenheimer"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Bojack Horseman", "Rick y Morty", "Archer", "Big Mouth"],
+            "en": ["Bojack Horseman", "Rick and Morty", "Archer", "Big Mouth"]
+          },
+          "pregunta": {
+            "es": "¿Qué serie animada para adultos de Netflix trata sobre un caballo antropomórfico que fue estrella de una sitcom en los 90?",
+            "en": "Which adult animated Netflix series is about an anthropomorphic horse who was a sitcom star in the 90s?"
+          },
+          "respuestaCorrecta": {
+            "es": "Bojack Horseman",
+            "en": "Bojack Horseman"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["The Grand Tour", "Top Gear", "Formula 1: Drive to Survive", "Cars That Rock"],
+            "en": ["The Grand Tour", "Top Gear", "Formula 1: Drive to Survive", "Cars That Rock"]
+          },
+          "pregunta": {
+            "es": "¿Qué programa de Amazon presenta a Jeremy Clarkson, Richard Hammond y James May después de dejar la BBC?",
+            "en": "Which Amazon program features Jeremy Clarkson, Richard Hammond and James May after leaving the BBC?"
+          },
+          "respuestaCorrecta": {
+            "es": "The Grand Tour",
+            "en": "The Grand Tour"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Everything Everywhere All at Once", "Crouching Tiger, Hidden Dragon", "The Farewell", "Crazy Rich Asians"],
+            "en": ["Everything Everywhere All at Once", "Crouching Tiger, Hidden Dragon", "The Farewell", "Crazy Rich Asians"]
+          },
+          "pregunta": {
+            "es": "¿Qué película protagonizada por Michelle Yeoh sobre multiversos ganó el Oscar a Mejor Película en 2023?",
+            "en": "Which film starring Michelle Yeoh about multiverses won the Oscar for Best Picture in 2023?"
+          },
+          "respuestaCorrecta": {
+            "es": "Everything Everywhere All at Once",
+            "en": "Everything Everywhere All at Once"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Love Island", "The Bachelor", "Survivor", "Big Brother"],
+            "en": ["Love Island", "The Bachelor", "Survivor", "Big Brother"]
+          },
+          "pregunta": {
+            "es": "¿Qué reality show trata sobre concursantes aislados que deben formar alianzas y competir en desafíos para no ser eliminados?",
+            "en": "Which reality show is about isolated contestants who must form alliances and compete in challenges to avoid elimination?"
+          },
+          "respuestaCorrecta": {
+            "es": "Survivor",
+            "en": "Survivor"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Zendaya", "Jennifer Lawrence", "Millie Bobby Brown", "Florence Pugh"],
+            "en": ["Zendaya", "Jennifer Lawrence", "Millie Bobby Brown", "Florence Pugh"]
+          },
+          "pregunta": {
+            "es": "¿Qué actriz ganó dos Emmys por su papel en 'Euphoria' y protagonizó 'Dune'?",
+            "en": "Which actress won two Emmys for her role in 'Euphoria' and starred in 'Dune'?"
+          },
+          "respuestaCorrecta": {
+            "es": "Zendaya",
+            "en": "Zendaya"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Heartstopper", "Sex Education", "Young Royals", "The End of the F***ing World"],
+            "en": ["Heartstopper", "Sex Education", "Young Royals", "The End of the F***ing World"]
+          },
+          "pregunta": {
+            "es": "¿Qué serie británica de Netflix basada en una novela gráfica narra el romance entre Charlie Spring y Nick Nelson?",
+            "en": "Which British Netflix series based on a graphic novel chronicles the romance between Charlie Spring and Nick Nelson?"
+          },
+          "respuestaCorrecta": {
+            "es": "Heartstopper",
+            "en": "Heartstopper"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Queer Eye", "RuPaul's Drag Race", "Selling Sunset", "The Great British Bake Off"],
+            "en": ["Queer Eye", "RuPaul's Drag Race", "Selling Sunset", "The Great British Bake Off"]
+          },
+          "pregunta": {
+            "es": "¿Qué reality show presenta a cinco expertos que dan consejos de estilo, cocina, cultura y decoración?",
+            "en": "Which reality show features five experts giving advice on style, cooking, culture and decor?"
+          },
+          "respuestaCorrecta": {
+            "es": "Queer Eye",
+            "en": "Queer Eye"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Inventing Anna", "Tiger King", "Making a Murderer", "Wild Wild Country"],
+            "en": ["Inventing Anna", "Tiger King", "Making a Murderer", "Wild Wild Country"]
+          },
+          "pregunta": {
+            "es": "¿Qué docuserie de Netflix se volvió viral durante la pandemia y trata sobre dueños excéntricos de zoológicos de grandes felinos?",
+            "en": "Which Netflix documentary series went viral during the pandemic and is about eccentric big cat zoo owners?"
+          },
+          "respuestaCorrecta": {
+            "es": "Tiger King",
+            "en": "Tiger King"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["The Batman", "Batman Begins", "The Dark Knight", "Batman v Superman"],
+            "en": ["The Batman", "Batman Begins", "The Dark Knight", "Batman v Superman"]
+          },
+          "pregunta": {
+            "es": "¿Qué reciente película de Batman protagonizada por Robert Pattinson tiene un enfoque más detectivesco?",
+            "en": "Which recent Batman film starring Robert Pattinson has a more detective-focused approach?"
+          },
+          "respuestaCorrecta": {
+            "es": "The Batman",
+            "en": "The Batman"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Godzilla vs Kong", "Pacific Rim", "Rampage", "Cloverfield"],
+            "en": ["Godzilla vs Kong", "Pacific Rim", "Rampage", "Cloverfield"]
+          },
+          "pregunta": {
+            "es": "¿Qué película de 2021 enfrenta a dos legendarios monstruos gigantes del cine?",
+            "en": "Which 2021 film pits two legendary giant movie monsters against each other?"
+          },
+          "respuestaCorrecta": {
+            "es": "Godzilla vs Kong",
+            "en": "Godzilla vs Kong"
+          }
+        },
+        {
+          "categoriaID": "categoria_entretenimiento",
+          "opciones": {
+            "es": ["Midnight Mass", "The Haunting of Hill House", "Archive 81", "Brand New Cherry Flavor"],
+            "en": ["Midnight Mass", "The Haunting of Hill House", "Archive 81", "Brand New Cherry Flavor"]
+          },
+          "pregunta": {
+            "es": "¿Qué serie de terror de Mike Flanagan trata sobre una comunidad isleña y la llegada de un misterioso sacerdote?",
+            "en": "Which Mike Flanagan horror series is about an island community and the arrival of a mysterious priest?"
+          },
+          "respuestaCorrecta": {
+            "es": "Midnight Mass",
+            "en": "Midnight Mass"
+          }
+        }
+]
