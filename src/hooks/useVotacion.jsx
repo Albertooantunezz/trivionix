@@ -22,7 +22,7 @@ export const useVotacion = (categoriaId, currentUser) => {
     const campoVotos = tipoVoto === 'like' ? 'likes' : 'dislikes';
 
     await updateDoc(categoriaDoc, {
-      [campoVotos]: increment(1), // Usar increment para evitar condiciones de carrera
+      [campoVotos]: increment(1), 
     });
 
     setVotado(true);

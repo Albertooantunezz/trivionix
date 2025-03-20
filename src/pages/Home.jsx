@@ -1,11 +1,11 @@
 import React, { useContext } from "react";
 import { Link } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
-import { IdiomaContext } from "../context/IdiomaContext"; // Importar el contexto de idioma
+import { IdiomaContext } from "../context/IdiomaContext";
 
 const Home = () => {
   const { currentUser } = useAuth();
-  const { idioma, cambiarIdioma } = useContext(IdiomaContext); // Usar el contexto de idioma
+  const { idioma, cambiarIdioma } = useContext(IdiomaContext);
 
   return (
     <div className="menuInicio" style={{ textAlign: "center" }}>
@@ -36,7 +36,7 @@ const Home = () => {
         </select>
       </div>
 
-      {/* Botón de "Jugar" que redirige a /categorias */}
+
       <div style={{ marginTop: "1rem", width: "100%" }}>
         <Link to="/categorias">
           <button

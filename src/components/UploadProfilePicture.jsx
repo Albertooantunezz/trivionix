@@ -1,4 +1,4 @@
-// src/components/UploadProfilePicture.jsx
+
 import React, { useState } from 'react';
 import { storage } from '../firebaseConfig';
 import { ref, uploadBytes, getDownloadURL } from 'firebase/storage';
@@ -28,14 +28,14 @@ const UploadProfilePicture = () => {
     setError(null);
 
     try {
-      // Subir la imagen a Firebase Storage
+
       const storageRef = ref(storage, `users/${currentUser.uid}/profile-picture`);
       const snapshot = await uploadBytes(storageRef, file);
 
-      // Obtener la URL de la imagen subida
+
       const downloadURL = await getDownloadURL(snapshot.ref);
 
-      // Guardar la URL en Firestore
+
       const userDoc = doc(db, 'users', currentUser.uid);
       await updateDoc(userDoc, {
         profilePicture: downloadURL,

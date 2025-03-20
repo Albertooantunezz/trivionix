@@ -32,7 +32,7 @@ const Juego = () => {
   const { currentUser } = useAuth();
   const { idioma } = useContext(IdiomaContext);
 
-  // Selecciona preguntas aleatorias
+
   const seleccionarPreguntasAleatorias = (preguntas, cantidad) => {
     const preguntasAleatorias = [];
     const copiaPreguntas = [...preguntas];
@@ -45,7 +45,7 @@ const Juego = () => {
     return preguntasAleatorias;
   };
 
-  // Obtener preguntas de la categoría
+
   useEffect(() => {
     const fetchPreguntas = async () => {
       if (!categoriaID) {
@@ -88,24 +88,24 @@ const Juego = () => {
     fetchPreguntas();
   }, [categoriaID]);
 
-  // Temporizador y lógica de la pregunta actual
+
   useEffect(() => {
     if (preguntaActual < preguntas.length) {
       setMostrarRespuestas(false);
       setTiempoRestante(10);
 
-      // Esperar 2 segundos antes de mostrar las respuestas
+
       const timeout = setTimeout(() => {
         setMostrarRespuestas(true);
 
-        // Iniciar el timer solo después de mostrar las respuestas
+
         const timer = setInterval(() => {
           setTiempoRestante((prev) => {
             if (prev === 1) {
-              clearInterval(timer); // Detener el timer
-              mostrarRespuestaCorrecta(); // Mostrar la respuesta correcta
+              clearInterval(timer); 
+              mostrarRespuestaCorrecta(); 
               setTimeout(() => {
-                handleSiguientePregunta(false); // Pasar a la siguiente pregunta después de 1 segundo
+                handleSiguientePregunta(false); 
               }, 1000);
               return 0;
             }
@@ -123,12 +123,11 @@ const Juego = () => {
     }
   }, [preguntaActual, preguntas]);
 
-  // Mostrar la respuesta correcta cuando el tiempo se agota
+
   const mostrarRespuestaCorrecta = () => {
     setRespuestaSeleccionada(preguntas[preguntaActual].respuestaCorrecta[idioma]);
   };
 
-  // Guardar estadísticas al finalizar el juego
   useEffect(() => {
     if (preguntaActual >= preguntas.length && currentUser) {
       if (puntaje > 0) {
@@ -137,7 +136,7 @@ const Juego = () => {
     }
   }, [preguntaActual, currentUser]);
 
-  // Calcular puntaje basado en el tiempo restante
+
   const calcularPuntaje = (tiempo) => {
     if (tiempo >= 8) return 10;
     if (tiempo >= 7) return 9;
@@ -150,7 +149,7 @@ const Juego = () => {
     return 2;
   };
 
-  // Manejar la selección de respuesta
+
   const handleRespuestaSeleccionada = (respuesta) => {
     setRespuestaSeleccionada(respuesta);
     clearInterval(intervalo);
@@ -177,10 +176,10 @@ const Juego = () => {
 
     setTimeout(() => {
       handleSiguientePregunta(true);
-    }, 1000); // Esperar 1 segundo antes de pasar a la siguiente pregunta
+    }, 1000);
   };
 
-  // Pasar a la siguiente pregunta
+
   const handleSiguientePregunta = (respondio) => {
     if (!respondio) {
       setRespuestaSeleccionada(null);
@@ -196,7 +195,7 @@ const Juego = () => {
     }
   };
 
-  // Guardar estadísticas en Firestore
+
   const guardarEstadisticas = async (userId, categoriaId, puntaje) => {
     try {
       const userDoc = doc(db, "users", userId);
@@ -252,7 +251,7 @@ const Juego = () => {
     position: "relative",
   }}
 >
-  {/* Contenido del recuadro */}
+
   <h3 style={{ marginBottom: "20px", marginTop: "50px" }}>
     {idioma === "es" ? "Puntuación" : "Score"}: {puntaje}{" "}
     {puntosSumados > 0 && `(+${puntosSumados})`}

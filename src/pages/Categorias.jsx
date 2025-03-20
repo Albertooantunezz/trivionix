@@ -18,14 +18,14 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { useAuth } from "../context/AuthContext";
 import RankingDialog from "../components/RankingDialog";
-import { IdiomaContext } from '../context/IdiomaContext'; // Importar el contexto de idioma
+import { IdiomaContext } from '../context/IdiomaContext'; 
 
 const Categorias = () => {
   const [categorias, setCategorias] = useState([]);
   const [loading, setLoading] = useState(true);
   const { currentUser } = useAuth();
   const [selectedCategoriaId, setSelectedCategoriaId] = useState(null);
-  const { idioma } = useContext(IdiomaContext); // Usar el contexto de idioma
+  const { idioma } = useContext(IdiomaContext); 
 
   useEffect(() => {
     const fetchCategorias = async () => {
@@ -139,7 +139,7 @@ const Categorias = () => {
               categorias.map((categoria) => (
                 <div className="tipoCategoria" key={categoria.id} style={cardStyle}>
                   <h3 style={{ fontSize: "25px", marginBottom: "0px" }}>
-                    {categoria.nombre[idioma]} {/* Mostrar el nombre en el idioma seleccionado */}
+                    {categoria.nombre[idioma]} 
                   </h3>
                   {categoria.imagen && (
                     <img

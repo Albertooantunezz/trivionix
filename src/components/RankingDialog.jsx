@@ -9,17 +9,17 @@ const RankingDialog = ({ categoriaId, onClose }) => {
   useEffect(() => {
     const fetchRanking = async () => {
       try {
-        // Obtener el documento de la categoría
+
         const categoriaDoc = await getDoc(doc(db, 'categorias', categoriaId));
         if (categoriaDoc.exists()) {
           const rankingData = categoriaDoc.data().ranking || {};
 
-          // Convertir el objeto de ranking a un array y ordenarlo
+
           const rankingList = Object.entries(rankingData)
-            .sort((a, b) => b[1] - a[1]) // Ordenar de mayor a menor puntaje
+            .sort((a, b) => b[1] - a[1]) 
             .map(([userId, puntaje]) => ({ userId, puntaje }));
 
-          // Obtener los nombres de usuario
+
           const usersData = await Promise.all(
             rankingList.map(async ({ userId }) => {
               const userDoc = await getDoc(doc(db, 'users', userId));
@@ -27,7 +27,7 @@ const RankingDialog = ({ categoriaId, onClose }) => {
             })
           );
 
-          // Combinar los datos
+
           const rankingFinal = rankingList.map((item, index) => ({
             ...item,
             username: usersData[index],

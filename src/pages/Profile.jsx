@@ -1,18 +1,18 @@
-import React, { useEffect, useState, useContext } from "react"; // Añade useContext aquí
+import React, { useEffect, useState, useContext } from "react"; 
 import { useAuth } from '../context/AuthContext';
 import { Link, useNavigate } from 'react-router-dom';
 import { db } from '../firebaseConfig';
 import { doc, getDoc, collection, getDocs } from 'firebase/firestore';
 import { auth } from '../firebaseConfig';
 import { signOut } from 'firebase/auth';
-import { IdiomaContext } from '../context/IdiomaContext'; // Importar el contexto de idioma
+import { IdiomaContext } from '../context/IdiomaContext'; 
 
 const Profile = () => {
   const { currentUser } = useAuth();
   const [username, setUsername] = useState("");
   const [categoriasJugadas, setCategoriasJugadas] = useState([]);
   const navigate = useNavigate();
-  const { idioma } = useContext(IdiomaContext); // Obtener el idioma actual
+  const { idioma } = useContext(IdiomaContext); 
 
   // Función para cerrar sesión
   const handleLogout = async () => {
@@ -31,18 +31,18 @@ const Profile = () => {
         if (userDoc.exists()) {
           setUsername(userDoc.data().username);
 
-          // Obtener las categorías jugadas y el número de veces
+
           const categoriasJugadasData = userDoc.data().categoriasJugadas || {};
 
-          // Obtener los nombres de las categorías
+
           const categoriasCollection = collection(db, 'categorias');
           const categoriasSnapshot = await getDocs(categoriasCollection);
           const categoriasData = {};
           categoriasSnapshot.forEach((doc) => {
-            categoriasData[doc.id] = doc.data().nombre; // Asegúrate de que nombre es un objeto { es: "...", en: "..." }
+            categoriasData[doc.id] = doc.data().nombre; 
           });
 
-          // Combinar los datos
+
           const categoriasConNombre = Object.entries(categoriasJugadasData).map(
             ([categoriaId, vecesJugada]) => ({
               categoriaId,

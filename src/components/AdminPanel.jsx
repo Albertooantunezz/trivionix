@@ -1,10 +1,10 @@
 import React from "react";
-import { subirPreguntasHistoria, borrarTodasLasPreguntas } from "../utils/agregarPreguntas"; // Importa las funciones
+import { subirPreguntasHistoria, borrarTodasLasPreguntas } from "../utils/agregarPreguntas"; 
 import { db } from "../firebaseConfig";
 import { collection, getDocs, query, where } from "firebase/firestore";
 
 const AdminPanel = () => {
-  const categoriaID = "categoria_entretenimiento"; // ID de la categoría que estás utilizando
+  const categoriaID = "categoria_entretenimiento"; 
 
   // Función para contar las preguntas en la categoría
   const contarPreguntasEnCategoria = async () => {
@@ -25,7 +25,7 @@ const AdminPanel = () => {
     <div style={{ textAlign: "center", padding: "20px" }}>
       <h1>Panel de Administración</h1>
 
-      {/* Botón para contar preguntas en la categoría */}
+
       <button
         onClick={contarPreguntasEnCategoria}
         style={{
@@ -36,13 +36,13 @@ const AdminPanel = () => {
           border: "none",
           cursor: "pointer",
           borderRadius: "5px",
-          marginRight: "10px", // Espacio entre botones
+          marginRight: "10px", 
         }}
       >
         Contar Preguntas en Categoría
       </button>
 
-      {/* Botón para subir preguntas */}
+
       <button
         onClick={subirPreguntasHistoria}
         style={{
@@ -53,13 +53,13 @@ const AdminPanel = () => {
           border: "none",
           cursor: "pointer",
           borderRadius: "5px",
-          marginRight: "10px", // Espacio entre botones
+          marginRight: "10px", 
         }}
       >
         Agregar Preguntas a Firebase
       </button>
 
-      {/* Botón para borrar todas las preguntas */}
+
       <button
         onClick={borrarTodasLasPreguntas}
         style={{

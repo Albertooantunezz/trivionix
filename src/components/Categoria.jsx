@@ -2,13 +2,13 @@
 import React, { useState, useEffect } from 'react';
 import { db } from './firebaseConfig';
 import { doc, getDoc, updateDoc } from 'firebase/firestore';
-import { useAuth } from './context/AuthContext';  // Suponiendo que tienes un contexto de autenticación
+import { useAuth } from './context/AuthContext';  
 
 const Categoria = ({ categoriaId }) => {
   const [categoria, setCategoria] = useState(null);
-  const { currentUser } = useAuth();  // Obtener el usuario actual (si es necesario)
-  const [votado, setVotado] = useState(false);  // Si el usuario ya ha votado
-  const [voto, setVoto] = useState("");  // "like" o "dislike"
+  const { currentUser } = useAuth(); 
+  const [votado, setVotado] = useState(false); 
+  const [voto, setVoto] = useState(""); 
 
   useEffect(() => {
     const fetchCategoria = async () => {
@@ -35,10 +35,10 @@ const Categoria = ({ categoriaId }) => {
 
     const categoriaDoc = doc(db, 'categorias', categoriaId);
 
-    // Actualizamos los votos en la categoría
+
     const campoVotos = tipoVoto === 'like' ? 'likes' : 'dislikes';
     await updateDoc(categoriaDoc, {
-      [campoVotos]: categoria[campoVotos] + 1,  // Incrementamos el contador
+      [campoVotos]: categoria[campoVotos] + 1,  
     });
 
     setVotado(true);

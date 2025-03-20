@@ -1,4 +1,4 @@
-// src/pages/Login.jsx
+
 import React, { useState } from "react";
 import { auth } from "../firebaseConfig";
 import { signInWithEmailAndPassword, createUserWithEmailAndPassword } from "firebase/auth";
@@ -7,7 +7,7 @@ import { doc, setDoc, getDoc } from 'firebase/firestore';
 import { db } from '../firebaseConfig';
 
 const Login = () => {
-  const [username, setUsername] = useState(""); // Campo para el username
+  const [username, setUsername] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [isRegistering, setIsRegistering] = useState(false);
@@ -18,33 +18,33 @@ const Login = () => {
 
     try {
       if (isRegistering) {
-        // Verificar si el username ya existe
+
         const usernameDoc = await getDoc(doc(db, 'usernames', username));
         if (usernameDoc.exists()) {
           alert("El nombre de usuario ya está en uso.");
           return;
         }
 
-        // Registrar usuario en Firebase Authentication
+
         const userCredential = await createUserWithEmailAndPassword(auth, email, password);
         const user = userCredential.user;
 
-        // Guardar el username en Firestore
+
         await setDoc(doc(db, 'usernames', username), {
           userId: user.uid,
         });
 
-        // Crear un documento en Firestore para el nuevo usuario
+
         await setDoc(doc(db, 'users', user.uid), {
-          username: username, // Guardar el username
+          username: username, 
           email: user.email,
-          categoriasJugadas: [], // Inicializar array de categorías jugadas
-          puntajeTotal: 0, // Inicializar puntaje total
+          categoriasJugadas: [],
+          puntajeTotal: 0,
         });
 
         alert("Usuario registrado con éxito");
       } else {
-        // Obtener el correo electrónico asociado al username
+
         const usernameDoc = await getDoc(doc(db, 'usernames', username));
         if (!usernameDoc.exists()) {
           alert("Nombre de usuario no encontrado.");
@@ -60,11 +60,11 @@ const Login = () => {
 
         const userEmail = userDoc.data().email;
 
-        // Iniciar sesión con el correo electrónico y la contraseña
+
         await signInWithEmailAndPassword(auth, userEmail, password);
         alert("Inicio de sesión exitoso");
       }
-      navigate("/categorias"); // Redirige al usuario después de iniciar sesión
+      navigate("/categorias");
     } catch (error) {
       alert("Error: " + error.message);
     }

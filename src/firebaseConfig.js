@@ -2,7 +2,7 @@ import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
-// Configuración de Firebase (usa la configuración de tu proyecto)
+
 const firebaseConfig = {
   apiKey: 'AIzaSyBJh4LilbtxQzTKmf1gqOt-GsKk1r99Y0A',
   authDomain: 'trivionix-c6041.firebaseapp.com',
@@ -12,13 +12,13 @@ const firebaseConfig = {
   appId: '1:864260871489:web:a4b5a0c87804ae8b17bdc0',
 };
 
-// Inicializar Firebase
+
 const app = initializeApp(firebaseConfig);
 
-// Autenticación
+
 const auth = getAuth(app);
 
-// Firestore para base de datos
+
 const db = getFirestore(app);
 
 
