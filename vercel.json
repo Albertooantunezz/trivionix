@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/index.css",
+      "source": "/index-v2.css",
       "headers": [
         {
           "key": "Cache-Control",
