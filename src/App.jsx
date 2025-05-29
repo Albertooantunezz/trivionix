@@ -10,6 +10,7 @@ import Header from './components/Header';
 import AdminPanel from "./components/AdminPanel";
 import { IdiomaProvider } from './context/IdiomaContext';
 import './App.css';
+import './index.css'; // Importa tu archivo CSS global
 
 
 function App() {
